@@ -1,0 +1,1055 @@
+@ZADANIE ABCD
+@WERSJA 1
+Prostokąt ma boki długości 7 cm i 3 cm. Oblicz jego obwód.
+A: 21 cm
+B: 20 cm
+C: 10 cm
+D: 24 cm
+POPRAWNA: B
+@KONIEC
+@WERSJA 2
+Prostokąt ma boki długości 8 cm i 6 cm. Oblicz jego obwód.
+A: 32 cm
+B: 48 cm
+C: 28 cm
+D: 14 cm
+POPRAWNA: C
+@KONIEC
+@WERSJA 3
+Prostokąt ma boki długości 9 cm i 9 cm. Oblicz jego obwód.
+A: 36 cm
+B: 81 cm
+C: 18 cm
+D: 40 cm
+POPRAWNA: A
+@KONIEC
+@WERSJA 4
+Prostokąt ma boki długości 10 cm i 4 cm. Oblicz jego obwód.
+A: 40 cm
+B: 32 cm
+C: 28 cm
+D: 14 cm
+POPRAWNA: C
+@KONIEC
+@WERSJA 5
+Prostokąt ma boki długości 11 cm i 7 cm. Oblicz jego obwód.
+A: 18 cm
+B: 36 cm
+C: 40 cm
+D: 77 cm
+POPRAWNA: B
+@KONIEC
+@WERSJA 6
+Prostokąt ma boki długości 12 cm i 10 cm. Oblicz jego obwód.
+A: 48 cm
+B: 44 cm
+C: 120 cm
+D: 22 cm
+POPRAWNA: B
+@KONIEC
+@WERSJA 7
+Prostokąt ma boki długości 13 cm i 5 cm. Oblicz jego obwód.
+A: 40 cm
+B: 36 cm
+C: 65 cm
+D: 18 cm
+POPRAWNA: B
+@KONIEC
+@WERSJA 8
+Prostokąt ma boki długości 14 cm i 8 cm. Oblicz jego obwód.
+A: 48 cm
+B: 22 cm
+C: 112 cm
+D: 44 cm
+POPRAWNA: D
+@KONIEC
+@WERSJA 9
+Prostokąt ma boki długości 15 cm i 3 cm. Oblicz jego obwód.
+A: 36 cm
+B: 45 cm
+C: 18 cm
+D: 40 cm
+POPRAWNA: A
+@KONIEC
+@WERSJA 10
+Prostokąt ma boki długości 16 cm i 6 cm. Oblicz jego obwód.
+A: 48 cm
+B: 96 cm
+C: 22 cm
+D: 44 cm
+POPRAWNA: D
+@KONIEC
+@KONIEC_ZADANIA
+
+@ZADANIE PF
+@WERSJA 1
+Trójkąt ABC jest równoramienny: $$AC=BC$$. Każdy z kątów przy podstawie AB ma miarę $$ 35^\circ $$. Oceń prawdziwość zdań.
+![Trójkąt równoramienny](trojkat.svg)
+1: Kąt przy wierzchołku C ma miarę $$ 110^\circ $$. | P
+2: Suma miar kątów przy podstawie AB wynosi $$ 70^\circ $$. | P
+POPRAWNA: PP
+@KONIEC
+@WERSJA 2
+Trójkąt ABC jest równoramienny: $$AC=BC$$. Każdy z kątów przy podstawie AB ma miarę $$ 40^\circ $$. Oceń prawdziwość zdań.
+![Trójkąt równoramienny](trojkat.svg)
+1: Kąt przy wierzchołku C ma miarę $$ 110^\circ $$. | F
+2: Suma miar kątów przy podstawie AB wynosi $$ 40^\circ $$. | F
+POPRAWNA: FF
+@KONIEC
+@WERSJA 3
+Trójkąt ABC jest równoramienny: $$AC=BC$$. Każdy z kątów przy podstawie AB ma miarę $$ 45^\circ $$. Oceń prawdziwość zdań.
+![Trójkąt równoramienny](trojkat.svg)
+1: Kąt przy wierzchołku C ma miarę $$ 90^\circ $$. | P
+2: Suma miar kątów przy podstawie AB wynosi $$ 45^\circ $$. | F
+POPRAWNA: PF
+@KONIEC
+@WERSJA 4
+Trójkąt ABC jest równoramienny: $$AC=BC$$. Każdy z kątów przy podstawie AB ma miarę $$ 50^\circ $$. Oceń prawdziwość zdań.
+![Trójkąt równoramienny](trojkat.svg)
+1: Kąt przy wierzchołku C ma miarę $$ 90^\circ $$. | F
+2: Suma miar kątów przy podstawie AB wynosi $$ 100^\circ $$. | P
+POPRAWNA: FP
+@KONIEC
+@WERSJA 5
+Trójkąt ABC jest równoramienny: $$AC=BC$$. Każdy z kątów przy podstawie AB ma miarę $$ 55^\circ $$. Oceń prawdziwość zdań.
+![Trójkąt równoramienny](trojkat.svg)
+1: Kąt przy wierzchołku C ma miarę $$ 70^\circ $$. | P
+2: Suma miar kątów przy podstawie AB wynosi $$ 55^\circ $$. | F
+POPRAWNA: PF
+@KONIEC
+@WERSJA 6
+Trójkąt ABC jest równoramienny: $$AC=BC$$. Każdy z kątów przy podstawie AB ma miarę $$ 60^\circ $$. Oceń prawdziwość zdań.
+![Trójkąt równoramienny](trojkat.svg)
+1: Kąt przy wierzchołku C ma miarę $$ 70^\circ $$. | F
+2: Suma miar kątów przy podstawie AB wynosi $$ 60^\circ $$. | F
+POPRAWNA: FF
+@KONIEC
+@WERSJA 7
+Trójkąt ABC jest równoramienny: $$AC=BC$$. Każdy z kątów przy podstawie AB ma miarę $$ 65^\circ $$. Oceń prawdziwość zdań.
+![Trójkąt równoramienny](trojkat.svg)
+1: Kąt przy wierzchołku C ma miarę $$ 50^\circ $$. | P
+2: Suma miar kątów przy podstawie AB wynosi $$ 130^\circ $$. | P
+POPRAWNA: PP
+@KONIEC
+@WERSJA 8
+Trójkąt ABC jest równoramienny: $$AC=BC$$. Każdy z kątów przy podstawie AB ma miarę $$ 70^\circ $$. Oceń prawdziwość zdań.
+![Trójkąt równoramienny](trojkat.svg)
+1: Kąt przy wierzchołku C ma miarę $$ 50^\circ $$. | F
+2: Suma miar kątów przy podstawie AB wynosi $$ 70^\circ $$. | F
+POPRAWNA: FF
+@KONIEC
+@WERSJA 9
+Trójkąt ABC jest równoramienny: $$AC=BC$$. Każdy z kątów przy podstawie AB ma miarę $$ 75^\circ $$. Oceń prawdziwość zdań.
+![Trójkąt równoramienny](trojkat.svg)
+1: Kąt przy wierzchołku C ma miarę $$ 30^\circ $$. | P
+2: Suma miar kątów przy podstawie AB wynosi $$ 75^\circ $$. | F
+POPRAWNA: PF
+@KONIEC
+@WERSJA 10
+Trójkąt ABC jest równoramienny: $$AC=BC$$. Każdy z kątów przy podstawie AB ma miarę $$ 80^\circ $$. Oceń prawdziwość zdań.
+![Trójkąt równoramienny](trojkat.svg)
+1: Kąt przy wierzchołku C ma miarę $$ 30^\circ $$. | F
+2: Suma miar kątów przy podstawie AB wynosi $$ 160^\circ $$. | P
+POPRAWNA: FP
+@KONIEC
+@KONIEC_ZADANIA
+
+@ZADANIE ABCD
+@WERSJA 1
+W trójkącie dwa kąty mają miary $$ 34^\circ $$ i $$ 57^\circ $$. Jaką miarę ma trzeci kąt?
+A: $$ 89^\circ $$
+B: $$ 79^\circ $$
+C: $$ 99^\circ $$
+D: $$ 91^\circ $$
+POPRAWNA: A
+@KONIEC
+@WERSJA 2
+W trójkącie dwa kąty mają miary $$ 38^\circ $$ i $$ 58^\circ $$. Jaką miarę ma trzeci kąt?
+A: $$ 94^\circ $$
+B: $$ 96^\circ $$
+C: $$ 84^\circ $$
+D: $$ 74^\circ $$
+POPRAWNA: C
+@KONIEC
+@WERSJA 3
+W trójkącie dwa kąty mają miary $$ 42^\circ $$ i $$ 59^\circ $$. Jaką miarę ma trzeci kąt?
+A: $$ 89^\circ $$
+B: $$ 79^\circ $$
+C: $$ 69^\circ $$
+D: $$ 101^\circ $$
+POPRAWNA: B
+@KONIEC
+@WERSJA 4
+W trójkącie dwa kąty mają miary $$ 46^\circ $$ i $$ 60^\circ $$. Jaką miarę ma trzeci kąt?
+A: $$ 64^\circ $$
+B: $$ 74^\circ $$
+C: $$ 84^\circ $$
+D: $$ 106^\circ $$
+POPRAWNA: B
+@KONIEC
+@WERSJA 5
+W trójkącie dwa kąty mają miary $$ 50^\circ $$ i $$ 61^\circ $$. Jaką miarę ma trzeci kąt?
+A: $$ 59^\circ $$
+B: $$ 79^\circ $$
+C: $$ 111^\circ $$
+D: $$ 69^\circ $$
+POPRAWNA: D
+@KONIEC
+@WERSJA 6
+W trójkącie dwa kąty mają miary $$ 54^\circ $$ i $$ 62^\circ $$. Jaką miarę ma trzeci kąt?
+A: $$ 54^\circ $$
+B: $$ 116^\circ $$
+C: $$ 74^\circ $$
+D: $$ 64^\circ $$
+POPRAWNA: D
+@KONIEC
+@WERSJA 7
+W trójkącie dwa kąty mają miary $$ 58^\circ $$ i $$ 63^\circ $$. Jaką miarę ma trzeci kąt?
+A: $$ 59^\circ $$
+B: $$ 121^\circ $$
+C: $$ 69^\circ $$
+D: $$ 49^\circ $$
+POPRAWNA: A
+@KONIEC
+@WERSJA 8
+W trójkącie dwa kąty mają miary $$ 62^\circ $$ i $$ 64^\circ $$. Jaką miarę ma trzeci kąt?
+A: $$ 54^\circ $$
+B: $$ 126^\circ $$
+C: $$ 44^\circ $$
+D: $$ 64^\circ $$
+POPRAWNA: A
+@KONIEC
+@WERSJA 9
+W trójkącie dwa kąty mają miary $$ 66^\circ $$ i $$ 65^\circ $$. Jaką miarę ma trzeci kąt?
+A: $$ 49^\circ $$
+B: $$ 39^\circ $$
+C: $$ 131^\circ $$
+D: $$ 59^\circ $$
+POPRAWNA: A
+@KONIEC
+@WERSJA 10
+W trójkącie dwa kąty mają miary $$ 70^\circ $$ i $$ 66^\circ $$. Jaką miarę ma trzeci kąt?
+A: $$ 44^\circ $$
+B: $$ 34^\circ $$
+C: $$ 136^\circ $$
+D: $$ 54^\circ $$
+POPRAWNA: A
+@KONIEC
+@KONIEC_ZADANIA
+
+@ZADANIE LUKI
+@WERSJA 1
+Prostokąt ma wymiary 5 cm i 4 cm. Uzupełnij zdania.
+---
+Pole prostokąta wynosi [[AB]].
+---
+Obwód prostokąta wynosi [[CD]].
+A: $$ 20\ \mathrm{cm}^2 $$
+B: $$ 30\ \mathrm{cm}^2 $$
+C: $$ 18\ \mathrm{cm} $$
+D: $$ 20\ \mathrm{cm} $$
+POPRAWNA: AC
+@KONIEC
+@WERSJA 2
+Prostokąt ma wymiary 6 cm i 5 cm. Uzupełnij zdania.
+---
+Pole prostokąta wynosi [[AB]].
+---
+Obwód prostokąta wynosi [[CD]].
+A: $$ 42\ \mathrm{cm}^2 $$
+B: $$ 30\ \mathrm{cm}^2 $$
+C: $$ 24\ \mathrm{cm} $$
+D: $$ 22\ \mathrm{cm} $$
+POPRAWNA: BD
+@KONIEC
+@WERSJA 3
+Prostokąt ma wymiary 7 cm i 6 cm. Uzupełnij zdania.
+---
+Pole prostokąta wynosi [[AB]].
+---
+Obwód prostokąta wynosi [[CD]].
+A: $$ 42\ \mathrm{cm}^2 $$
+B: $$ 56\ \mathrm{cm}^2 $$
+C: $$ 28\ \mathrm{cm} $$
+D: $$ 26\ \mathrm{cm} $$
+POPRAWNA: AD
+@KONIEC
+@WERSJA 4
+Prostokąt ma wymiary 8 cm i 7 cm. Uzupełnij zdania.
+---
+Pole prostokąta wynosi [[AB]].
+---
+Obwód prostokąta wynosi [[CD]].
+A: $$ 72\ \mathrm{cm}^2 $$
+B: $$ 56\ \mathrm{cm}^2 $$
+C: $$ 30\ \mathrm{cm} $$
+D: $$ 32\ \mathrm{cm} $$
+POPRAWNA: BC
+@KONIEC
+@WERSJA 5
+Prostokąt ma wymiary 9 cm i 8 cm. Uzupełnij zdania.
+---
+Pole prostokąta wynosi [[AB]].
+---
+Obwód prostokąta wynosi [[CD]].
+A: $$ 72\ \mathrm{cm}^2 $$
+B: $$ 90\ \mathrm{cm}^2 $$
+C: $$ 36\ \mathrm{cm} $$
+D: $$ 34\ \mathrm{cm} $$
+POPRAWNA: AD
+@KONIEC
+@WERSJA 6
+Prostokąt ma wymiary 10 cm i 4 cm. Uzupełnij zdania.
+---
+Pole prostokąta wynosi [[AB]].
+---
+Obwód prostokąta wynosi [[CD]].
+A: $$ 60\ \mathrm{cm}^2 $$
+B: $$ 40\ \mathrm{cm}^2 $$
+C: $$ 30\ \mathrm{cm} $$
+D: $$ 28\ \mathrm{cm} $$
+POPRAWNA: BD
+@KONIEC
+@WERSJA 7
+Prostokąt ma wymiary 11 cm i 5 cm. Uzupełnij zdania.
+---
+Pole prostokąta wynosi [[AB]].
+---
+Obwód prostokąta wynosi [[CD]].
+A: $$ 55\ \mathrm{cm}^2 $$
+B: $$ 77\ \mathrm{cm}^2 $$
+C: $$ 32\ \mathrm{cm} $$
+D: $$ 34\ \mathrm{cm} $$
+POPRAWNA: AC
+@KONIEC
+@WERSJA 8
+Prostokąt ma wymiary 12 cm i 6 cm. Uzupełnij zdania.
+---
+Pole prostokąta wynosi [[AB]].
+---
+Obwód prostokąta wynosi [[CD]].
+A: $$ 96\ \mathrm{cm}^2 $$
+B: $$ 72\ \mathrm{cm}^2 $$
+C: $$ 38\ \mathrm{cm} $$
+D: $$ 36\ \mathrm{cm} $$
+POPRAWNA: BD
+@KONIEC
+@WERSJA 9
+Prostokąt ma wymiary 13 cm i 7 cm. Uzupełnij zdania.
+---
+Pole prostokąta wynosi [[AB]].
+---
+Obwód prostokąta wynosi [[CD]].
+A: $$ 91\ \mathrm{cm}^2 $$
+B: $$ 117\ \mathrm{cm}^2 $$
+C: $$ 42\ \mathrm{cm} $$
+D: $$ 40\ \mathrm{cm} $$
+POPRAWNA: AD
+@KONIEC
+@WERSJA 10
+Prostokąt ma wymiary 14 cm i 8 cm. Uzupełnij zdania.
+---
+Pole prostokąta wynosi [[AB]].
+---
+Obwód prostokąta wynosi [[CD]].
+A: $$ 140\ \mathrm{cm}^2 $$
+B: $$ 112\ \mathrm{cm}^2 $$
+C: $$ 44\ \mathrm{cm} $$
+D: $$ 46\ \mathrm{cm} $$
+POPRAWNA: BC
+@KONIEC
+@KONIEC_ZADANIA
+
+@ZADANIE ABCD
+@WERSJA 1
+Równoległobok ma podstawę długości 8 cm i wysokość opuszczoną na tę podstawę równą 3 cm. Oblicz jego pole.
+A: $$ 11\ \mathrm{cm}^2 $$
+B: $$ 48\ \mathrm{cm}^2 $$
+C: $$ 24\ \mathrm{cm}^2 $$
+D: $$ 12\ \mathrm{cm}^2 $$
+POPRAWNA: C
+@KONIEC
+@WERSJA 2
+Równoległobok ma podstawę długości 9 cm i wysokość opuszczoną na tę podstawę równą 4 cm. Oblicz jego pole.
+A: $$ 36\ \mathrm{cm}^2 $$
+B: $$ 72\ \mathrm{cm}^2 $$
+C: $$ 18\ \mathrm{cm}^2 $$
+D: $$ 13\ \mathrm{cm}^2 $$
+POPRAWNA: A
+@KONIEC
+@WERSJA 3
+Równoległobok ma podstawę długości 10 cm i wysokość opuszczoną na tę podstawę równą 5 cm. Oblicz jego pole.
+A: $$ 100\ \mathrm{cm}^2 $$
+B: $$ 50\ \mathrm{cm}^2 $$
+C: $$ 25\ \mathrm{cm}^2 $$
+D: $$ 15\ \mathrm{cm}^2 $$
+POPRAWNA: B
+@KONIEC
+@WERSJA 4
+Równoległobok ma podstawę długości 11 cm i wysokość opuszczoną na tę podstawę równą 6 cm. Oblicz jego pole.
+A: $$ 66\ \mathrm{cm}^2 $$
+B: $$ 132\ \mathrm{cm}^2 $$
+C: $$ 17\ \mathrm{cm}^2 $$
+D: $$ 33\ \mathrm{cm}^2 $$
+POPRAWNA: A
+@KONIEC
+@WERSJA 5
+Równoległobok ma podstawę długości 12 cm i wysokość opuszczoną na tę podstawę równą 7 cm. Oblicz jego pole.
+A: $$ 84\ \mathrm{cm}^2 $$
+B: $$ 42\ \mathrm{cm}^2 $$
+C: $$ 19\ \mathrm{cm}^2 $$
+D: $$ 168\ \mathrm{cm}^2 $$
+POPRAWNA: A
+@KONIEC
+@WERSJA 6
+Równoległobok ma podstawę długości 13 cm i wysokość opuszczoną na tę podstawę równą 3 cm. Oblicz jego pole.
+A: $$ 78\ \mathrm{cm}^2 $$
+B: $$ 39\ \mathrm{cm}^2 $$
+C: $$ 19\ \mathrm{cm}^2 $$
+D: $$ 16\ \mathrm{cm}^2 $$
+POPRAWNA: B
+@KONIEC
+@WERSJA 7
+Równoległobok ma podstawę długości 14 cm i wysokość opuszczoną na tę podstawę równą 4 cm. Oblicz jego pole.
+A: $$ 112\ \mathrm{cm}^2 $$
+B: $$ 28\ \mathrm{cm}^2 $$
+C: $$ 56\ \mathrm{cm}^2 $$
+D: $$ 18\ \mathrm{cm}^2 $$
+POPRAWNA: C
+@KONIEC
+@WERSJA 8
+Równoległobok ma podstawę długości 15 cm i wysokość opuszczoną na tę podstawę równą 5 cm. Oblicz jego pole.
+A: $$ 150\ \mathrm{cm}^2 $$
+B: $$ 20\ \mathrm{cm}^2 $$
+C: $$ 37\ \mathrm{cm}^2 $$
+D: $$ 75\ \mathrm{cm}^2 $$
+POPRAWNA: D
+@KONIEC
+@WERSJA 9
+Równoległobok ma podstawę długości 16 cm i wysokość opuszczoną na tę podstawę równą 6 cm. Oblicz jego pole.
+A: $$ 192\ \mathrm{cm}^2 $$
+B: $$ 96\ \mathrm{cm}^2 $$
+C: $$ 48\ \mathrm{cm}^2 $$
+D: $$ 22\ \mathrm{cm}^2 $$
+POPRAWNA: B
+@KONIEC
+@WERSJA 10
+Równoległobok ma podstawę długości 17 cm i wysokość opuszczoną na tę podstawę równą 7 cm. Oblicz jego pole.
+A: $$ 119\ \mathrm{cm}^2 $$
+B: $$ 238\ \mathrm{cm}^2 $$
+C: $$ 24\ \mathrm{cm}^2 $$
+D: $$ 59\ \mathrm{cm}^2 $$
+POPRAWNA: A
+@KONIEC
+@KONIEC_ZADANIA
+
+@ZADANIE PF
+@WERSJA 1
+Trapez ma podstawy długości 8 cm i 4 cm oraz wysokość 4 cm. Oceń prawdziwość zdań.
+![Trapez z wysokością](trapez.svg)
+1: Pole tego trapezu jest równe $$ 24\ \mathrm{cm}^2 $$. | P
+2: Suma długości podstaw wynosi 12 cm. | P
+POPRAWNA: PP
+@KONIEC
+@WERSJA 2
+Trapez ma podstawy długości 9 cm i 5 cm oraz wysokość 6 cm. Oceń prawdziwość zdań.
+![Trapez z wysokością](trapez.svg)
+1: Pole tego trapezu jest równe $$ 46\ \mathrm{cm}^2 $$. | F
+2: Suma długości podstaw wynosi 16 cm. | F
+POPRAWNA: FF
+@KONIEC
+@WERSJA 3
+Trapez ma podstawy długości 10 cm i 6 cm oraz wysokość 8 cm. Oceń prawdziwość zdań.
+![Trapez z wysokością](trapez.svg)
+1: Pole tego trapezu jest równe $$ 64\ \mathrm{cm}^2 $$. | P
+2: Suma długości podstaw wynosi 18 cm. | F
+POPRAWNA: PF
+@KONIEC
+@WERSJA 4
+Trapez ma podstawy długości 11 cm i 7 cm oraz wysokość 4 cm. Oceń prawdziwość zdań.
+![Trapez z wysokością](trapez.svg)
+1: Pole tego trapezu jest równe $$ 40\ \mathrm{cm}^2 $$. | F
+2: Suma długości podstaw wynosi 18 cm. | P
+POPRAWNA: FP
+@KONIEC
+@WERSJA 5
+Trapez ma podstawy długości 12 cm i 8 cm oraz wysokość 6 cm. Oceń prawdziwość zdań.
+![Trapez z wysokością](trapez.svg)
+1: Pole tego trapezu jest równe $$ 60\ \mathrm{cm}^2 $$. | P
+2: Suma długości podstaw wynosi 22 cm. | F
+POPRAWNA: PF
+@KONIEC
+@WERSJA 6
+Trapez ma podstawy długości 13 cm i 9 cm oraz wysokość 8 cm. Oceń prawdziwość zdań.
+![Trapez z wysokością](trapez.svg)
+1: Pole tego trapezu jest równe $$ 92\ \mathrm{cm}^2 $$. | F
+2: Suma długości podstaw wynosi 24 cm. | F
+POPRAWNA: FF
+@KONIEC
+@WERSJA 7
+Trapez ma podstawy długości 14 cm i 10 cm oraz wysokość 4 cm. Oceń prawdziwość zdań.
+![Trapez z wysokością](trapez.svg)
+1: Pole tego trapezu jest równe $$ 48\ \mathrm{cm}^2 $$. | P
+2: Suma długości podstaw wynosi 24 cm. | P
+POPRAWNA: PP
+@KONIEC
+@WERSJA 8
+Trapez ma podstawy długości 15 cm i 11 cm oraz wysokość 6 cm. Oceń prawdziwość zdań.
+![Trapez z wysokością](trapez.svg)
+1: Pole tego trapezu jest równe $$ 82\ \mathrm{cm}^2 $$. | F
+2: Suma długości podstaw wynosi 28 cm. | F
+POPRAWNA: FF
+@KONIEC
+@WERSJA 9
+Trapez ma podstawy długości 16 cm i 12 cm oraz wysokość 8 cm. Oceń prawdziwość zdań.
+![Trapez z wysokością](trapez.svg)
+1: Pole tego trapezu jest równe $$ 112\ \mathrm{cm}^2 $$. | P
+2: Suma długości podstaw wynosi 30 cm. | F
+POPRAWNA: PF
+@KONIEC
+@WERSJA 10
+Trapez ma podstawy długości 17 cm i 13 cm oraz wysokość 4 cm. Oceń prawdziwość zdań.
+![Trapez z wysokością](trapez.svg)
+1: Pole tego trapezu jest równe $$ 64\ \mathrm{cm}^2 $$. | F
+2: Suma długości podstaw wynosi 30 cm. | P
+POPRAWNA: FP
+@KONIEC
+@KONIEC_ZADANIA
+
+@ZADANIE ABCD
+@WERSJA 1
+Przekątne rombu mają długości 6 cm i 8 cm. Jakie jest pole rombu?
+A: $$ 34\ \mathrm{cm}^2 $$
+B: $$ 48\ \mathrm{cm}^2 $$
+C: $$ 14\ \mathrm{cm}^2 $$
+D: $$ 24\ \mathrm{cm}^2 $$
+POPRAWNA: D
+@KONIEC
+@WERSJA 2
+Przekątne rombu mają długości 8 cm i 10 cm. Jakie jest pole rombu?
+A: $$ 80\ \mathrm{cm}^2 $$
+B: $$ 18\ \mathrm{cm}^2 $$
+C: $$ 50\ \mathrm{cm}^2 $$
+D: $$ 40\ \mathrm{cm}^2 $$
+POPRAWNA: D
+@KONIEC
+@WERSJA 3
+Przekątne rombu mają długości 10 cm i 12 cm. Jakie jest pole rombu?
+A: $$ 22\ \mathrm{cm}^2 $$
+B: $$ 70\ \mathrm{cm}^2 $$
+C: $$ 120\ \mathrm{cm}^2 $$
+D: $$ 60\ \mathrm{cm}^2 $$
+POPRAWNA: D
+@KONIEC
+@WERSJA 4
+Przekątne rombu mają długości 12 cm i 14 cm. Jakie jest pole rombu?
+A: $$ 168\ \mathrm{cm}^2 $$
+B: $$ 94\ \mathrm{cm}^2 $$
+C: $$ 26\ \mathrm{cm}^2 $$
+D: $$ 84\ \mathrm{cm}^2 $$
+POPRAWNA: D
+@KONIEC
+@WERSJA 5
+Przekątne rombu mają długości 14 cm i 16 cm. Jakie jest pole rombu?
+A: $$ 30\ \mathrm{cm}^2 $$
+B: $$ 122\ \mathrm{cm}^2 $$
+C: $$ 112\ \mathrm{cm}^2 $$
+D: $$ 224\ \mathrm{cm}^2 $$
+POPRAWNA: C
+@KONIEC
+@WERSJA 6
+Przekątne rombu mają długości 16 cm i 8 cm. Jakie jest pole rombu?
+A: $$ 24\ \mathrm{cm}^2 $$
+B: $$ 128\ \mathrm{cm}^2 $$
+C: $$ 64\ \mathrm{cm}^2 $$
+D: $$ 74\ \mathrm{cm}^2 $$
+POPRAWNA: C
+@KONIEC
+@WERSJA 7
+Przekątne rombu mają długości 18 cm i 10 cm. Jakie jest pole rombu?
+A: $$ 90\ \mathrm{cm}^2 $$
+B: $$ 100\ \mathrm{cm}^2 $$
+C: $$ 180\ \mathrm{cm}^2 $$
+D: $$ 28\ \mathrm{cm}^2 $$
+POPRAWNA: A
+@KONIEC
+@WERSJA 8
+Przekątne rombu mają długości 20 cm i 12 cm. Jakie jest pole rombu?
+A: $$ 240\ \mathrm{cm}^2 $$
+B: $$ 32\ \mathrm{cm}^2 $$
+C: $$ 130\ \mathrm{cm}^2 $$
+D: $$ 120\ \mathrm{cm}^2 $$
+POPRAWNA: D
+@KONIEC
+@WERSJA 9
+Przekątne rombu mają długości 22 cm i 14 cm. Jakie jest pole rombu?
+A: $$ 154\ \mathrm{cm}^2 $$
+B: $$ 164\ \mathrm{cm}^2 $$
+C: $$ 36\ \mathrm{cm}^2 $$
+D: $$ 308\ \mathrm{cm}^2 $$
+POPRAWNA: A
+@KONIEC
+@WERSJA 10
+Przekątne rombu mają długości 24 cm i 16 cm. Jakie jest pole rombu?
+A: $$ 192\ \mathrm{cm}^2 $$
+B: $$ 202\ \mathrm{cm}^2 $$
+C: $$ 384\ \mathrm{cm}^2 $$
+D: $$ 40\ \mathrm{cm}^2 $$
+POPRAWNA: A
+@KONIEC
+@KONIEC_ZADANIA
+
+@ZADANIE PF
+@WERSJA 1
+Trzy kąty wewnętrzne pewnego czworokąta mają miary $$ 65^\circ $$, $$ 90^\circ $$ i $$90^\circ$$. Oceń prawdziwość zdań.
+1: Brakujący kąt ma miarę $$ 115^\circ $$. | P
+2: Suma kątów wewnętrznych tego czworokąta wynosi $$360^\circ$$. | P
+POPRAWNA: PP
+@KONIEC
+@WERSJA 2
+Trzy kąty wewnętrzne pewnego czworokąta mają miary $$ 70^\circ $$, $$ 90^\circ $$ i $$90^\circ$$. Oceń prawdziwość zdań.
+1: Brakujący kąt ma miarę $$ 100^\circ $$. | F
+2: Suma kątów wewnętrznych tego czworokąta wynosi $$180^\circ$$. | F
+POPRAWNA: FF
+@KONIEC
+@WERSJA 3
+Trzy kąty wewnętrzne pewnego czworokąta mają miary $$ 75^\circ $$, $$ 90^\circ $$ i $$90^\circ$$. Oceń prawdziwość zdań.
+1: Brakujący kąt ma miarę $$ 105^\circ $$. | P
+2: Suma kątów wewnętrznych tego czworokąta wynosi $$180^\circ$$. | F
+POPRAWNA: PF
+@KONIEC
+@WERSJA 4
+Trzy kąty wewnętrzne pewnego czworokąta mają miary $$ 80^\circ $$, $$ 90^\circ $$ i $$90^\circ$$. Oceń prawdziwość zdań.
+1: Brakujący kąt ma miarę $$ 90^\circ $$. | F
+2: Suma kątów wewnętrznych tego czworokąta wynosi $$360^\circ$$. | P
+POPRAWNA: FP
+@KONIEC
+@WERSJA 5
+Trzy kąty wewnętrzne pewnego czworokąta mają miary $$ 85^\circ $$, $$ 90^\circ $$ i $$90^\circ$$. Oceń prawdziwość zdań.
+1: Brakujący kąt ma miarę $$ 95^\circ $$. | P
+2: Suma kątów wewnętrznych tego czworokąta wynosi $$180^\circ$$. | F
+POPRAWNA: PF
+@KONIEC
+@WERSJA 6
+Trzy kąty wewnętrzne pewnego czworokąta mają miary $$ 90^\circ $$, $$ 90^\circ $$ i $$90^\circ$$. Oceń prawdziwość zdań.
+1: Brakujący kąt ma miarę $$ 80^\circ $$. | F
+2: Suma kątów wewnętrznych tego czworokąta wynosi $$180^\circ$$. | F
+POPRAWNA: FF
+@KONIEC
+@WERSJA 7
+Trzy kąty wewnętrzne pewnego czworokąta mają miary $$ 95^\circ $$, $$ 90^\circ $$ i $$90^\circ$$. Oceń prawdziwość zdań.
+1: Brakujący kąt ma miarę $$ 85^\circ $$. | P
+2: Suma kątów wewnętrznych tego czworokąta wynosi $$360^\circ$$. | P
+POPRAWNA: PP
+@KONIEC
+@WERSJA 8
+Trzy kąty wewnętrzne pewnego czworokąta mają miary $$ 100^\circ $$, $$ 90^\circ $$ i $$90^\circ$$. Oceń prawdziwość zdań.
+1: Brakujący kąt ma miarę $$ 70^\circ $$. | F
+2: Suma kątów wewnętrznych tego czworokąta wynosi $$180^\circ$$. | F
+POPRAWNA: FF
+@KONIEC
+@WERSJA 9
+Trzy kąty wewnętrzne pewnego czworokąta mają miary $$ 105^\circ $$, $$ 90^\circ $$ i $$90^\circ$$. Oceń prawdziwość zdań.
+1: Brakujący kąt ma miarę $$ 75^\circ $$. | P
+2: Suma kątów wewnętrznych tego czworokąta wynosi $$180^\circ$$. | F
+POPRAWNA: PF
+@KONIEC
+@WERSJA 10
+Trzy kąty wewnętrzne pewnego czworokąta mają miary $$ 110^\circ $$, $$ 90^\circ $$ i $$90^\circ$$. Oceń prawdziwość zdań.
+1: Brakujący kąt ma miarę $$ 60^\circ $$. | F
+2: Suma kątów wewnętrznych tego czworokąta wynosi $$360^\circ$$. | P
+POPRAWNA: FP
+@KONIEC
+@KONIEC_ZADANIA
+
+@ZADANIE UZ
+@WERSJA 1
+Prostokąt I ma wymiary 5 cm i 6 cm, a prostokąt II – 6 cm i 5 cm. Czy oba prostokąty mają równe pola? Wybierz odpowiedź i uzasadnienie.
+A: Tak,
+B: Nie,
+1: ponieważ iloczyny długości ich boków są jednakowe.
+2: ponieważ iloczyny długości ich boków są różne.
+3: ponieważ prostokąty mają po cztery kąty proste.
+POPRAWNA: A1
+@KONIEC
+@WERSJA 2
+Prostokąt I ma wymiary 6 cm i 7 cm, a prostokąt II – 6 cm i 8 cm. Czy oba prostokąty mają równe pola? Wybierz odpowiedź i uzasadnienie.
+A: Tak,
+B: Nie,
+1: ponieważ iloczyny długości ich boków są jednakowe.
+2: ponieważ iloczyny długości ich boków są różne.
+3: ponieważ prostokąty mają po cztery kąty proste.
+POPRAWNA: B2
+@KONIEC
+@WERSJA 3
+Prostokąt I ma wymiary 7 cm i 8 cm, a prostokąt II – 8 cm i 7 cm. Czy oba prostokąty mają równe pola? Wybierz odpowiedź i uzasadnienie.
+A: Tak,
+B: Nie,
+1: ponieważ iloczyny długości ich boków są jednakowe.
+2: ponieważ iloczyny długości ich boków są różne.
+3: ponieważ prostokąty mają po cztery kąty proste.
+POPRAWNA: A1
+@KONIEC
+@WERSJA 4
+Prostokąt I ma wymiary 8 cm i 6 cm, a prostokąt II – 8 cm i 7 cm. Czy oba prostokąty mają równe pola? Wybierz odpowiedź i uzasadnienie.
+A: Tak,
+B: Nie,
+1: ponieważ iloczyny długości ich boków są jednakowe.
+2: ponieważ iloczyny długości ich boków są różne.
+3: ponieważ prostokąty mają po cztery kąty proste.
+POPRAWNA: B2
+@KONIEC
+@WERSJA 5
+Prostokąt I ma wymiary 9 cm i 7 cm, a prostokąt II – 7 cm i 9 cm. Czy oba prostokąty mają równe pola? Wybierz odpowiedź i uzasadnienie.
+A: Tak,
+B: Nie,
+1: ponieważ iloczyny długości ich boków są jednakowe.
+2: ponieważ iloczyny długości ich boków są różne.
+3: ponieważ prostokąty mają po cztery kąty proste.
+POPRAWNA: A1
+@KONIEC
+@WERSJA 6
+Prostokąt I ma wymiary 10 cm i 8 cm, a prostokąt II – 10 cm i 9 cm. Czy oba prostokąty mają równe pola? Wybierz odpowiedź i uzasadnienie.
+A: Tak,
+B: Nie,
+1: ponieważ iloczyny długości ich boków są jednakowe.
+2: ponieważ iloczyny długości ich boków są różne.
+3: ponieważ prostokąty mają po cztery kąty proste.
+POPRAWNA: B2
+@KONIEC
+@WERSJA 7
+Prostokąt I ma wymiary 11 cm i 6 cm, a prostokąt II – 6 cm i 11 cm. Czy oba prostokąty mają równe pola? Wybierz odpowiedź i uzasadnienie.
+A: Tak,
+B: Nie,
+1: ponieważ iloczyny długości ich boków są jednakowe.
+2: ponieważ iloczyny długości ich boków są różne.
+3: ponieważ prostokąty mają po cztery kąty proste.
+POPRAWNA: A1
+@KONIEC
+@WERSJA 8
+Prostokąt I ma wymiary 12 cm i 7 cm, a prostokąt II – 12 cm i 8 cm. Czy oba prostokąty mają równe pola? Wybierz odpowiedź i uzasadnienie.
+A: Tak,
+B: Nie,
+1: ponieważ iloczyny długości ich boków są jednakowe.
+2: ponieważ iloczyny długości ich boków są różne.
+3: ponieważ prostokąty mają po cztery kąty proste.
+POPRAWNA: B2
+@KONIEC
+@WERSJA 9
+Prostokąt I ma wymiary 13 cm i 8 cm, a prostokąt II – 8 cm i 13 cm. Czy oba prostokąty mają równe pola? Wybierz odpowiedź i uzasadnienie.
+A: Tak,
+B: Nie,
+1: ponieważ iloczyny długości ich boków są jednakowe.
+2: ponieważ iloczyny długości ich boków są różne.
+3: ponieważ prostokąty mają po cztery kąty proste.
+POPRAWNA: A1
+@KONIEC
+@WERSJA 10
+Prostokąt I ma wymiary 14 cm i 6 cm, a prostokąt II – 14 cm i 7 cm. Czy oba prostokąty mają równe pola? Wybierz odpowiedź i uzasadnienie.
+A: Tak,
+B: Nie,
+1: ponieważ iloczyny długości ich boków są jednakowe.
+2: ponieważ iloczyny długości ich boków są różne.
+3: ponieważ prostokąty mają po cztery kąty proste.
+POPRAWNA: B2
+@KONIEC
+@KONIEC_ZADANIA
+
+@ZADANIE LUKI
+@WERSJA 1
+Trójkąt równoramienny ma kąt między ramionami o mierze $$ 40^\circ $$. Uzupełnij zdania.
+![Trójkąt równoramienny](trojkat.svg)
+---
+Każdy kąt przy podstawie ma miarę [[AB]].
+---
+Suma miar obu kątów przy podstawie wynosi [[CD]].
+A: $$ 70^\circ $$
+B: $$ 80^\circ $$
+C: $$ 140^\circ $$
+D: $$ 150^\circ $$
+POPRAWNA: AC
+@KONIEC
+@WERSJA 2
+Trójkąt równoramienny ma kąt między ramionami o mierze $$ 50^\circ $$. Uzupełnij zdania.
+![Trójkąt równoramienny](trojkat.svg)
+---
+Każdy kąt przy podstawie ma miarę [[AB]].
+---
+Suma miar obu kątów przy podstawie wynosi [[CD]].
+A: $$ 75^\circ $$
+B: $$ 65^\circ $$
+C: $$ 140^\circ $$
+D: $$ 130^\circ $$
+POPRAWNA: BD
+@KONIEC
+@WERSJA 3
+Trójkąt równoramienny ma kąt między ramionami o mierze $$ 60^\circ $$. Uzupełnij zdania.
+![Trójkąt równoramienny](trojkat.svg)
+---
+Każdy kąt przy podstawie ma miarę [[AB]].
+---
+Suma miar obu kątów przy podstawie wynosi [[CD]].
+A: $$ 60^\circ $$
+B: $$ 70^\circ $$
+C: $$ 130^\circ $$
+D: $$ 120^\circ $$
+POPRAWNA: AD
+@KONIEC
+@WERSJA 4
+Trójkąt równoramienny ma kąt między ramionami o mierze $$ 70^\circ $$. Uzupełnij zdania.
+![Trójkąt równoramienny](trojkat.svg)
+---
+Każdy kąt przy podstawie ma miarę [[AB]].
+---
+Suma miar obu kątów przy podstawie wynosi [[CD]].
+A: $$ 65^\circ $$
+B: $$ 55^\circ $$
+C: $$ 110^\circ $$
+D: $$ 120^\circ $$
+POPRAWNA: BC
+@KONIEC
+@WERSJA 5
+Trójkąt równoramienny ma kąt między ramionami o mierze $$ 80^\circ $$. Uzupełnij zdania.
+![Trójkąt równoramienny](trojkat.svg)
+---
+Każdy kąt przy podstawie ma miarę [[AB]].
+---
+Suma miar obu kątów przy podstawie wynosi [[CD]].
+A: $$ 50^\circ $$
+B: $$ 60^\circ $$
+C: $$ 110^\circ $$
+D: $$ 100^\circ $$
+POPRAWNA: AD
+@KONIEC
+@WERSJA 6
+Trójkąt równoramienny ma kąt między ramionami o mierze $$ 90^\circ $$. Uzupełnij zdania.
+![Trójkąt równoramienny](trojkat.svg)
+---
+Każdy kąt przy podstawie ma miarę [[AB]].
+---
+Suma miar obu kątów przy podstawie wynosi [[CD]].
+A: $$ 55^\circ $$
+B: $$ 45^\circ $$
+C: $$ 100^\circ $$
+D: $$ 90^\circ $$
+POPRAWNA: BD
+@KONIEC
+@WERSJA 7
+Trójkąt równoramienny ma kąt między ramionami o mierze $$ 100^\circ $$. Uzupełnij zdania.
+![Trójkąt równoramienny](trojkat.svg)
+---
+Każdy kąt przy podstawie ma miarę [[AB]].
+---
+Suma miar obu kątów przy podstawie wynosi [[CD]].
+A: $$ 40^\circ $$
+B: $$ 50^\circ $$
+C: $$ 80^\circ $$
+D: $$ 90^\circ $$
+POPRAWNA: AC
+@KONIEC
+@WERSJA 8
+Trójkąt równoramienny ma kąt między ramionami o mierze $$ 110^\circ $$. Uzupełnij zdania.
+![Trójkąt równoramienny](trojkat.svg)
+---
+Każdy kąt przy podstawie ma miarę [[AB]].
+---
+Suma miar obu kątów przy podstawie wynosi [[CD]].
+A: $$ 45^\circ $$
+B: $$ 35^\circ $$
+C: $$ 80^\circ $$
+D: $$ 70^\circ $$
+POPRAWNA: BD
+@KONIEC
+@WERSJA 9
+Trójkąt równoramienny ma kąt między ramionami o mierze $$ 120^\circ $$. Uzupełnij zdania.
+![Trójkąt równoramienny](trojkat.svg)
+---
+Każdy kąt przy podstawie ma miarę [[AB]].
+---
+Suma miar obu kątów przy podstawie wynosi [[CD]].
+A: $$ 30^\circ $$
+B: $$ 40^\circ $$
+C: $$ 70^\circ $$
+D: $$ 60^\circ $$
+POPRAWNA: AD
+@KONIEC
+@WERSJA 10
+Trójkąt równoramienny ma kąt między ramionami o mierze $$ 130^\circ $$. Uzupełnij zdania.
+![Trójkąt równoramienny](trojkat.svg)
+---
+Każdy kąt przy podstawie ma miarę [[AB]].
+---
+Suma miar obu kątów przy podstawie wynosi [[CD]].
+A: $$ 35^\circ $$
+B: $$ 25^\circ $$
+C: $$ 50^\circ $$
+D: $$ 60^\circ $$
+POPRAWNA: BC
+@KONIEC
+@KONIEC_ZADANIA
+
+@ZADANIE ABCD
+@WERSJA 1
+Podstawy trapezu mają długości 10 cm i 4 cm, a jego wysokość wynosi 5 cm. Ile wynosi pole?
+![Trapez](trapez.svg)
+A: $$ 35\ \mathrm{cm}^2 $$
+B: $$ 70\ \mathrm{cm}^2 $$
+C: $$ 40\ \mathrm{cm}^2 $$
+D: $$ 30\ \mathrm{cm}^2 $$
+POPRAWNA: A
+@KONIEC
+@WERSJA 2
+Podstawy trapezu mają długości 12 cm i 6 cm, a jego wysokość wynosi 6 cm. Ile wynosi pole?
+![Trapez](trapez.svg)
+A: $$ 108\ \mathrm{cm}^2 $$
+B: $$ 59\ \mathrm{cm}^2 $$
+C: $$ 49\ \mathrm{cm}^2 $$
+D: $$ 54\ \mathrm{cm}^2 $$
+POPRAWNA: D
+@KONIEC
+@WERSJA 3
+Podstawy trapezu mają długości 14 cm i 8 cm, a jego wysokość wynosi 7 cm. Ile wynosi pole?
+![Trapez](trapez.svg)
+A: $$ 82\ \mathrm{cm}^2 $$
+B: $$ 72\ \mathrm{cm}^2 $$
+C: $$ 77\ \mathrm{cm}^2 $$
+D: $$ 154\ \mathrm{cm}^2 $$
+POPRAWNA: C
+@KONIEC
+@WERSJA 4
+Podstawy trapezu mają długości 16 cm i 10 cm, a jego wysokość wynosi 8 cm. Ile wynosi pole?
+![Trapez](trapez.svg)
+A: $$ 99\ \mathrm{cm}^2 $$
+B: $$ 104\ \mathrm{cm}^2 $$
+C: $$ 109\ \mathrm{cm}^2 $$
+D: $$ 208\ \mathrm{cm}^2 $$
+POPRAWNA: B
+@KONIEC
+@WERSJA 5
+Podstawy trapezu mają długości 18 cm i 12 cm, a jego wysokość wynosi 9 cm. Ile wynosi pole?
+![Trapez](trapez.svg)
+A: $$ 135\ \mathrm{cm}^2 $$
+B: $$ 130\ \mathrm{cm}^2 $$
+C: $$ 270\ \mathrm{cm}^2 $$
+D: $$ 140\ \mathrm{cm}^2 $$
+POPRAWNA: A
+@KONIEC
+@WERSJA 6
+Podstawy trapezu mają długości 20 cm i 14 cm, a jego wysokość wynosi 10 cm. Ile wynosi pole?
+![Trapez](trapez.svg)
+A: $$ 170\ \mathrm{cm}^2 $$
+B: $$ 340\ \mathrm{cm}^2 $$
+C: $$ 175\ \mathrm{cm}^2 $$
+D: $$ 165\ \mathrm{cm}^2 $$
+POPRAWNA: A
+@KONIEC
+@WERSJA 7
+Podstawy trapezu mają długości 22 cm i 16 cm, a jego wysokość wynosi 11 cm. Ile wynosi pole?
+![Trapez](trapez.svg)
+A: $$ 418\ \mathrm{cm}^2 $$
+B: $$ 209\ \mathrm{cm}^2 $$
+C: $$ 214\ \mathrm{cm}^2 $$
+D: $$ 204\ \mathrm{cm}^2 $$
+POPRAWNA: B
+@KONIEC
+@WERSJA 8
+Podstawy trapezu mają długości 24 cm i 18 cm, a jego wysokość wynosi 12 cm. Ile wynosi pole?
+![Trapez](trapez.svg)
+A: $$ 504\ \mathrm{cm}^2 $$
+B: $$ 252\ \mathrm{cm}^2 $$
+C: $$ 257\ \mathrm{cm}^2 $$
+D: $$ 247\ \mathrm{cm}^2 $$
+POPRAWNA: B
+@KONIEC
+@WERSJA 9
+Podstawy trapezu mają długości 26 cm i 20 cm, a jego wysokość wynosi 13 cm. Ile wynosi pole?
+![Trapez](trapez.svg)
+A: $$ 294\ \mathrm{cm}^2 $$
+B: $$ 304\ \mathrm{cm}^2 $$
+C: $$ 598\ \mathrm{cm}^2 $$
+D: $$ 299\ \mathrm{cm}^2 $$
+POPRAWNA: D
+@KONIEC
+@WERSJA 10
+Podstawy trapezu mają długości 28 cm i 22 cm, a jego wysokość wynosi 14 cm. Ile wynosi pole?
+![Trapez](trapez.svg)
+A: $$ 350\ \mathrm{cm}^2 $$
+B: $$ 700\ \mathrm{cm}^2 $$
+C: $$ 355\ \mathrm{cm}^2 $$
+D: $$ 345\ \mathrm{cm}^2 $$
+POPRAWNA: A
+@KONIEC
+@KONIEC_ZADANIA
+
+@ZADANIE PF
+@WERSJA 1
+W trójkącie ABC punkty D i E są środkami odpowiednio boków AB i AC. Długość boku BC wynosi 8 cm. Oceń prawdziwość zdań.
+![Odcinek łączący środki boków trójkąta](srodkowa.svg)
+1: Odcinek DE ma długość 4 cm. | P
+2: Odcinek DE jest równoległy do boku BC. | P
+POPRAWNA: PP
+@KONIEC
+@WERSJA 2
+W trójkącie ABC punkty D i E są środkami odpowiednio boków AB i AC. Długość boku BC wynosi 10 cm. Oceń prawdziwość zdań.
+![Odcinek łączący środki boków trójkąta](srodkowa.svg)
+1: Odcinek DE ma długość 7 cm. | F
+2: Odcinek DE jest prostopadły do boku BC. | F
+POPRAWNA: FF
+@KONIEC
+@WERSJA 3
+W trójkącie ABC punkty D i E są środkami odpowiednio boków AB i AC. Długość boku BC wynosi 12 cm. Oceń prawdziwość zdań.
+![Odcinek łączący środki boków trójkąta](srodkowa.svg)
+1: Odcinek DE ma długość 6 cm. | P
+2: Odcinek DE jest równoległy do boku BC. | P
+POPRAWNA: PP
+@KONIEC
+@WERSJA 4
+W trójkącie ABC punkty D i E są środkami odpowiednio boków AB i AC. Długość boku BC wynosi 14 cm. Oceń prawdziwość zdań.
+![Odcinek łączący środki boków trójkąta](srodkowa.svg)
+1: Odcinek DE ma długość 9 cm. | F
+2: Odcinek DE jest równoległy do boku BC. | P
+POPRAWNA: FP
+@KONIEC
+@WERSJA 5
+W trójkącie ABC punkty D i E są środkami odpowiednio boków AB i AC. Długość boku BC wynosi 16 cm. Oceń prawdziwość zdań.
+![Odcinek łączący środki boków trójkąta](srodkowa.svg)
+1: Odcinek DE ma długość 8 cm. | P
+2: Odcinek DE jest prostopadły do boku BC. | F
+POPRAWNA: PF
+@KONIEC
+@WERSJA 6
+W trójkącie ABC punkty D i E są środkami odpowiednio boków AB i AC. Długość boku BC wynosi 18 cm. Oceń prawdziwość zdań.
+![Odcinek łączący środki boków trójkąta](srodkowa.svg)
+1: Odcinek DE ma długość 11 cm. | F
+2: Odcinek DE jest równoległy do boku BC. | P
+POPRAWNA: FP
+@KONIEC
+@WERSJA 7
+W trójkącie ABC punkty D i E są środkami odpowiednio boków AB i AC. Długość boku BC wynosi 20 cm. Oceń prawdziwość zdań.
+![Odcinek łączący środki boków trójkąta](srodkowa.svg)
+1: Odcinek DE ma długość 10 cm. | P
+2: Odcinek DE jest równoległy do boku BC. | P
+POPRAWNA: PP
+@KONIEC
+@WERSJA 8
+W trójkącie ABC punkty D i E są środkami odpowiednio boków AB i AC. Długość boku BC wynosi 22 cm. Oceń prawdziwość zdań.
+![Odcinek łączący środki boków trójkąta](srodkowa.svg)
+1: Odcinek DE ma długość 13 cm. | F
+2: Odcinek DE jest prostopadły do boku BC. | F
+POPRAWNA: FF
+@KONIEC
+@WERSJA 9
+W trójkącie ABC punkty D i E są środkami odpowiednio boków AB i AC. Długość boku BC wynosi 24 cm. Oceń prawdziwość zdań.
+![Odcinek łączący środki boków trójkąta](srodkowa.svg)
+1: Odcinek DE ma długość 12 cm. | P
+2: Odcinek DE jest równoległy do boku BC. | P
+POPRAWNA: PP
+@KONIEC
+@WERSJA 10
+W trójkącie ABC punkty D i E są środkami odpowiednio boków AB i AC. Długość boku BC wynosi 26 cm. Oceń prawdziwość zdań.
+![Odcinek łączący środki boków trójkąta](srodkowa.svg)
+1: Odcinek DE ma długość 15 cm. | F
+2: Odcinek DE jest równoległy do boku BC. | P
+POPRAWNA: FP
+@KONIEC
+@KONIEC_ZADANIA
