@@ -426,60 +426,70 @@ POPRAWNA: A
 @ZADANIE PF
 @WERSJA 1
 W trójkącie ABC, w którym |AC|=|BC|, poprowadzono wysokość CD. Obwód trójkąta ACD jest równy 12 cm, a obwód trójkąta ABC jest równy 16 cm.
+![Trójkąt](zad06.png)
 1: Obwód trójkąta BCD jest równy 12 cm. | P
 2: Wysokość CD ma długość 7 cm. | F
 POPRAWNA: PF
 @KONIEC
 @WERSJA 2
 W trójkącie ABC, w którym |AC|=|BC|, poprowadzono wysokość CD. Obwód trójkąta ACD jest równy 30 cm, a obwód trójkąta ABC jest równy 36 cm.
+![Trójkąt](zad06.png)
 1: Obwód trójkąta BCD jest równy 34 cm. | F
 2: Wysokość CD ma długość 12 cm. | P
 POPRAWNA: FP
 @KONIEC
 @WERSJA 3
 W trójkącie ABC, w którym |AC|=|BC|, poprowadzono wysokość CD. Obwód trójkąta ACD jest równy 40 cm, a obwód trójkąta ABC jest równy 50 cm.
+![Trójkąt](zad06.png)
 1: Obwód trójkąta BCD jest równy 44 cm. | F
 2: Wysokość CD ma długość 18 cm. | F
 POPRAWNA: FF
 @KONIEC
 @WERSJA 4
 W trójkącie ABC, w którym |AC|=|BC|, poprowadzono wysokość CD. Obwód trójkąta ACD jest równy 56 cm, a obwód trójkąta ABC jest równy 64 cm.
+![Trójkąt](zad06.png)
 1: Obwód trójkąta BCD jest równy 56 cm. | P
 2: Wysokość CD ma długość 24 cm. | P
 POPRAWNA: PP
 @KONIEC
 @WERSJA 5
 W trójkącie ABC, w którym |AC|=|BC|, poprowadzono wysokość CD. Obwód trójkąta ACD jest równy 36 cm, a obwód trójkąta ABC jest równy 48 cm.
+![Trójkąt](zad06.png)
 1: Obwód trójkąta BCD jest równy 36 cm. | P
 2: Wysokość CD ma długość 15 cm. | F
 POPRAWNA: PF
 @KONIEC
 @WERSJA 6
 W trójkącie ABC, w którym |AC|=|BC|, poprowadzono wysokość CD. Obwód trójkąta ACD jest równy 48 cm, a obwód trójkąta ABC jest równy 64 cm.
+![Trójkąt](zad06.png)
 1: Obwód trójkąta BCD jest równy 52 cm. | F
 2: Wysokość CD ma długość 16 cm. | P
 POPRAWNA: FP
 @KONIEC
 @WERSJA 7
 W trójkącie ABC, w którym |AC|=|BC|, poprowadzono wysokość CD. Obwód trójkąta ACD jest równy 24 cm, a obwód trójkąta ABC jest równy 32 cm.
+![Trójkąt](zad06.png)
 1: Obwód trójkąta BCD jest równy 28 cm. | F
 2: Wysokość CD ma długość 11 cm. | F
 POPRAWNA: FF
 @KONIEC
 @WERSJA 8
 W trójkącie ABC, w którym |AC|=|BC|, poprowadzono wysokość CD. Obwód trójkąta ACD jest równy 60 cm, a obwód trójkąta ABC jest równy 72 cm.
+![Trójkąt](zad06.png)
 1: Obwód trójkąta BCD jest równy 60 cm. | P
 2: Wysokość CD ma długość 24 cm. | P
 POPRAWNA: PP
 @KONIEC
 @WERSJA 9
 W trójkącie ABC, w którym |AC|=|BC|, poprowadzono wysokość CD. Obwód trójkąta ACD jest równy 60 cm, a obwód trójkąta ABC jest równy 80 cm.
+![Trójkąt](zad06.png)
 1: Obwód trójkąta BCD jest równy 60 cm. | P
 2: Wysokość CD ma długość 23 cm. | F
 POPRAWNA: PF
 @KONIEC
 @WERSJA 10
 W trójkącie ABC, w którym |AC|=|BC|, poprowadzono wysokość CD. Obwód trójkąta ACD jest równy 84 cm, a obwód trójkąta ABC jest równy 98 cm.
+![Trójkąt](zad06.png)
 1: Obwód trójkąta BCD jest równy 88 cm. | F
 2: Wysokość CD ma długość 35 cm. | P
 POPRAWNA: FP
