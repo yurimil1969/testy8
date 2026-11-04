@@ -1,0 +1,829 @@
+@ZADANIE ABCD
+@WERSJA 1
+Prostokąt o obwodzie 18 cm ma krótszy bok długości 2 cm. Dłuższy bok ma długość:
+A: 7 cm
+B: 5 cm
+C: 9 cm
+D: 10 cm
+POPRAWNA: A
+@KONIEC
+@WERSJA 2
+Prostokąt o obwodzie 24 cm ma krótszy bok długości 3 cm. Dłuższy bok ma długość:
+A: 11 cm
+B: 9 cm
+C: 8 cm
+D: 12 cm
+POPRAWNA: B
+@KONIEC
+@WERSJA 3
+Prostokąt o obwodzie 30 cm ma krótszy bok długości 4 cm. Dłuższy bok ma długość:
+A: 14 cm
+B: 13 cm
+C: 11 cm
+D: 9 cm
+POPRAWNA: C
+@KONIEC
+@WERSJA 4
+Prostokąt o obwodzie 36 cm ma krótszy bok długości 5 cm. Dłuższy bok ma długość:
+A: 16 cm
+B: 15 cm
+C: 14 cm
+D: 13 cm
+POPRAWNA: D
+@KONIEC
+@WERSJA 5
+Prostokąt o obwodzie 34 cm ma krótszy bok długości 6 cm. Dłuższy bok ma długość:
+A: 11 cm
+B: 8 cm
+C: 13 cm
+D: 14 cm
+POPRAWNA: A
+@KONIEC
+@WERSJA 6
+Prostokąt o obwodzie 20 cm ma krótszy bok długości 2 cm. Dłuższy bok ma długość:
+A: 6 cm
+B: 8 cm
+C: 7 cm
+D: 9 cm
+POPRAWNA: B
+@KONIEC
+@WERSJA 7
+Prostokąt o obwodzie 26 cm ma krótszy bok długości 3 cm. Dłuższy bok ma długość:
+A: 7 cm
+B: 9 cm
+C: 10 cm
+D: 13 cm
+POPRAWNA: C
+@KONIEC
+@WERSJA 8
+Prostokąt o obwodzie 32 cm ma krótszy bok długości 4 cm. Dłuższy bok ma długość:
+A: 9 cm
+B: 10 cm
+C: 11 cm
+D: 12 cm
+POPRAWNA: D
+@KONIEC
+@WERSJA 9
+Prostokąt o obwodzie 30 cm ma krótszy bok długości 5 cm. Dłuższy bok ma długość:
+A: 10 cm
+B: 9 cm
+C: 7 cm
+D: 8 cm
+POPRAWNA: A
+@KONIEC
+@WERSJA 10
+Prostokąt o obwodzie 36 cm ma krótszy bok długości 6 cm. Dłuższy bok ma długość:
+A: 13 cm
+B: 12 cm
+C: 11 cm
+D: 14 cm
+POPRAWNA: B
+@KONIEC
+@KONIEC_ZADANIA
+
+@ZADANIE ABCD
+@WERSJA 1
+Trójkąt o wysokości 4 cm ma pole równe 12 $$\mathrm{cm}^{2}$$. Bok, na który została opuszczona ta wysokość ma długość:
+A: 4 cm
+B: 6 cm
+C: 2 cm
+D: 8 cm
+POPRAWNA: B
+@KONIEC
+@WERSJA 2
+Trójkąt o wysokości 6 cm ma pole równe 36 $$\mathrm{cm}^{2}$$. Bok, na który została opuszczona ta wysokość ma długość:
+A: 16 cm
+B: 8 cm
+C: 12 cm
+D: 6 cm
+POPRAWNA: C
+@KONIEC
+@WERSJA 3
+Trójkąt o wysokości 8 cm ma pole równe 32 $$\mathrm{cm}^{2}$$. Bok, na który została opuszczona ta wysokość ma długość:
+A: 6 cm
+B: 14 cm
+C: 2 cm
+D: 8 cm
+POPRAWNA: D
+@KONIEC
+@WERSJA 4
+Trójkąt o wysokości 10 cm ma pole równe 70 $$\mathrm{cm}^{2}$$. Bok, na który została opuszczona ta wysokość ma długość:
+A: 14 cm
+B: 18 cm
+C: 16 cm
+D: 12 cm
+POPRAWNA: A
+@KONIEC
+@WERSJA 5
+Trójkąt o wysokości 4 cm ma pole równe 20 $$\mathrm{cm}^{2}$$. Bok, na który została opuszczona ta wysokość ma długość:
+A: 14 cm
+B: 10 cm
+C: 6 cm
+D: 4 cm
+POPRAWNA: B
+@KONIEC
+@WERSJA 6
+Trójkąt o wysokości 6 cm ma pole równe 18 $$\mathrm{cm}^{2}$$. Bok, na który została opuszczona ta wysokość ma długość:
+A: 12 cm
+B: 4 cm
+C: 6 cm
+D: 2 cm
+POPRAWNA: C
+@KONIEC
+@WERSJA 7
+Trójkąt o wysokości 8 cm ma pole równe 48 $$\mathrm{cm}^{2}$$. Bok, na który została opuszczona ta wysokość ma długość:
+A: 14 cm
+B: 18 cm
+C: 10 cm
+D: 12 cm
+POPRAWNA: D
+@KONIEC
+@WERSJA 8
+Trójkąt o wysokości 10 cm ma pole równe 40 $$\mathrm{cm}^{2}$$. Bok, na który została opuszczona ta wysokość ma długość:
+A: 8 cm
+B: 12 cm
+C: 10 cm
+D: 14 cm
+POPRAWNA: A
+@KONIEC
+@WERSJA 9
+Trójkąt o wysokości 4 cm ma pole równe 28 $$\mathrm{cm}^{2}$$. Bok, na który została opuszczona ta wysokość ma długość:
+A: 18 cm
+B: 14 cm
+C: 10 cm
+D: 12 cm
+POPRAWNA: B
+@KONIEC
+@WERSJA 10
+Trójkąt o wysokości 6 cm ma pole równe 30 $$\mathrm{cm}^{2}$$. Bok, na który została opuszczona ta wysokość ma długość:
+A: 14 cm
+B: 16 cm
+C: 10 cm
+D: 12 cm
+POPRAWNA: C
+@KONIEC
+@KONIEC_ZADANIA
+
+@ZADANIE ABCD
+@WERSJA 1
+Prosta EF dzieli prostokąt ABCD na kwadrat o obwodzie 16 cm i prostokąt ABFE o obwodzie o 2 cm mniejszym od obwodu kwadratu EFCD.
+Długość odcinka AE jest równa:
+![Rysunek do zadania 3](zad03.png)
+A: 1 cm
+B: 4 cm
+C: 3 cm
+D: 6 cm
+POPRAWNA: C
+@KONIEC
+@WERSJA 2
+Prosta EF dzieli prostokąt ABCD na kwadrat o obwodzie 20 cm i prostokąt ABFE o obwodzie o 6 cm mniejszym od obwodu kwadratu EFCD.
+Długość odcinka AE jest równa:
+![Rysunek do zadania 3](zad03.png)
+A: 3 cm
+B: 4 cm
+C: 5 cm
+D: 2 cm
+POPRAWNA: D
+@KONIEC
+@WERSJA 3
+Prosta EF dzieli prostokąt ABCD na kwadrat o obwodzie 24 cm i prostokąt ABFE o obwodzie o 4 cm mniejszym od obwodu kwadratu EFCD.
+Długość odcinka AE jest równa:
+![Rysunek do zadania 3](zad03.png)
+A: 4 cm
+B: 5 cm
+C: 6 cm
+D: 2 cm
+POPRAWNA: A
+@KONIEC
+@WERSJA 4
+Prosta EF dzieli prostokąt ABCD na kwadrat o obwodzie 28 cm i prostokąt ABFE o obwodzie o 2 cm mniejszym od obwodu kwadratu EFCD.
+Długość odcinka AE jest równa:
+![Rysunek do zadania 3](zad03.png)
+A: 4 cm
+B: 6 cm
+C: 8 cm
+D: 7 cm
+POPRAWNA: B
+@KONIEC
+@WERSJA 5
+Prosta EF dzieli prostokąt ABCD na kwadrat o obwodzie 32 cm i prostokąt ABFE o obwodzie o 6 cm mniejszym od obwodu kwadratu EFCD.
+Długość odcinka AE jest równa:
+![Rysunek do zadania 3](zad03.png)
+A: 8 cm
+B: 2 cm
+C: 5 cm
+D: 3 cm
+POPRAWNA: C
+@KONIEC
+@WERSJA 6
+Prosta EF dzieli prostokąt ABCD na kwadrat o obwodzie 36 cm i prostokąt ABFE o obwodzie o 4 cm mniejszym od obwodu kwadratu EFCD.
+Długość odcinka AE jest równa:
+![Rysunek do zadania 3](zad03.png)
+A: 5 cm
+B: 10 cm
+C: 6 cm
+D: 7 cm
+POPRAWNA: D
+@KONIEC
+@WERSJA 7
+Prosta EF dzieli prostokąt ABCD na kwadrat o obwodzie 16 cm i prostokąt ABFE o obwodzie o 2 cm mniejszym od obwodu kwadratu EFCD.
+Długość odcinka AE jest równa:
+![Rysunek do zadania 3](zad03.png)
+A: 3 cm
+B: 6 cm
+C: 1 cm
+D: 2 cm
+POPRAWNA: A
+@KONIEC
+@WERSJA 8
+Prosta EF dzieli prostokąt ABCD na kwadrat o obwodzie 20 cm i prostokąt ABFE o obwodzie o 6 cm mniejszym od obwodu kwadratu EFCD.
+Długość odcinka AE jest równa:
+![Rysunek do zadania 3](zad03.png)
+A: 3 cm
+B: 2 cm
+C: 1 cm
+D: 5 cm
+POPRAWNA: B
+@KONIEC
+@WERSJA 9
+Prosta EF dzieli prostokąt ABCD na kwadrat o obwodzie 24 cm i prostokąt ABFE o obwodzie o 4 cm mniejszym od obwodu kwadratu EFCD.
+Długość odcinka AE jest równa:
+![Rysunek do zadania 3](zad03.png)
+A: 2 cm
+B: 1 cm
+C: 4 cm
+D: 6 cm
+POPRAWNA: C
+@KONIEC
+@WERSJA 10
+Prosta EF dzieli prostokąt ABCD na kwadrat o obwodzie 28 cm i prostokąt ABFE o obwodzie o 2 cm mniejszym od obwodu kwadratu EFCD.
+Długość odcinka AE jest równa:
+![Rysunek do zadania 3](zad03.png)
+A: 8 cm
+B: 9 cm
+C: 7 cm
+D: 6 cm
+POPRAWNA: D
+@KONIEC
+@KONIEC_ZADANIA
+
+@ZADANIE PF
+@WERSJA 1
+Kąt rozwarty między przekątnymi prostokąta ABCD przedstawionego na rysunku obok ma miarę 110º.
+![Przekątne prostokąta](zad04.png)
+1: Kąt DCA ma miarę 35º | P
+2: Kąt DAC ma miarę 55º | P
+POPRAWNA: PP
+@KONIEC
+@WERSJA 2
+Kąt rozwarty między przekątnymi prostokąta ABCD przedstawionego na rysunku obok ma miarę 120º.
+![Przekątne prostokąta](zad04.png)
+1: Kąt DCA ma miarę 30º | P
+2: Kąt DAC ma miarę 50º | F
+POPRAWNA: PF
+@KONIEC
+@WERSJA 3
+Kąt rozwarty między przekątnymi prostokąta ABCD przedstawionego na rysunku obok ma miarę 130º.
+![Przekątne prostokąta](zad04.png)
+1: Kąt DCA ma miarę 35º | F
+2: Kąt DAC ma miarę 65º | P
+POPRAWNA: FP
+@KONIEC
+@WERSJA 4
+Kąt rozwarty między przekątnymi prostokąta ABCD przedstawionego na rysunku obok ma miarę 140º.
+![Przekątne prostokąta](zad04.png)
+1: Kąt DCA ma miarę 30º | F
+2: Kąt DAC ma miarę 60º | F
+POPRAWNA: FF
+@KONIEC
+@WERSJA 5
+Kąt rozwarty między przekątnymi prostokąta ABCD przedstawionego na rysunku obok ma miarę 150º.
+![Przekątne prostokąta](zad04.png)
+1: Kąt DCA ma miarę 15º | P
+2: Kąt DAC ma miarę 75º | P
+POPRAWNA: PP
+@KONIEC
+@WERSJA 6
+Kąt rozwarty między przekątnymi prostokąta ABCD przedstawionego na rysunku obok ma miarę 160º.
+![Przekątne prostokąta](zad04.png)
+1: Kąt DCA ma miarę 10º | P
+2: Kąt DAC ma miarę 70º | F
+POPRAWNA: PF
+@KONIEC
+@WERSJA 7
+Kąt rozwarty między przekątnymi prostokąta ABCD przedstawionego na rysunku obok ma miarę 170º.
+![Przekątne prostokąta](zad04.png)
+1: Kąt DCA ma miarę 15º | F
+2: Kąt DAC ma miarę 85º | P
+POPRAWNA: FP
+@KONIEC
+@WERSJA 8
+Kąt rozwarty między przekątnymi prostokąta ABCD przedstawionego na rysunku obok ma miarę 110º.
+![Przekątne prostokąta](zad04.png)
+1: Kąt DCA ma miarę 45º | F
+2: Kąt DAC ma miarę 45º | F
+POPRAWNA: FF
+@KONIEC
+@WERSJA 9
+Kąt rozwarty między przekątnymi prostokąta ABCD przedstawionego na rysunku obok ma miarę 120º.
+![Przekątne prostokąta](zad04.png)
+1: Kąt DCA ma miarę 30º | P
+2: Kąt DAC ma miarę 60º | P
+POPRAWNA: PP
+@KONIEC
+@WERSJA 10
+Kąt rozwarty między przekątnymi prostokąta ABCD przedstawionego na rysunku obok ma miarę 130º.
+![Przekątne prostokąta](zad04.png)
+1: Kąt DCA ma miarę 25º | P
+2: Kąt DAC ma miarę 55º | F
+POPRAWNA: PF
+@KONIEC
+@KONIEC_ZADANIA
+
+@ZADANIE ABCD
+@WERSJA 1
+Trapez ma pole równe 28 $$\mathrm{cm}^{2}$$. Jedna z jego podstaw ma długość 6 cm, a wysokość 4 cm. Długość drugiej podstawy jest równa:
+A: 10 cm
+B: 12 cm
+C: 2 cm
+D: 8 cm
+POPRAWNA: D
+@KONIEC
+@WERSJA 2
+Trapez ma pole równe 54 $$\mathrm{cm}^{2}$$. Jedna z jego podstaw ma długość 8 cm, a wysokość 6 cm. Długość drugiej podstawy jest równa:
+A: 10 cm
+B: 6 cm
+C: 14 cm
+D: 12 cm
+POPRAWNA: A
+@KONIEC
+@WERSJA 3
+Trapez ma pole równe 88 $$\mathrm{cm}^{2}$$. Jedna z jego podstaw ma długość 10 cm, a wysokość 8 cm. Długość drugiej podstawy jest równa:
+A: 16 cm
+B: 12 cm
+C: 14 cm
+D: 18 cm
+POPRAWNA: B
+@KONIEC
+@WERSJA 4
+Trapez ma pole równe 32 $$\mathrm{cm}^{2}$$. Jedna z jego podstaw ma długość 12 cm, a wysokość 4 cm. Długość drugiej podstawy jest równa:
+A: 2 cm
+B: 6 cm
+C: 4 cm
+D: 8 cm
+POPRAWNA: C
+@KONIEC
+@WERSJA 5
+Trapez ma pole równe 60 $$\mathrm{cm}^{2}$$. Jedna z jego podstaw ma długość 14 cm, a wysokość 6 cm. Długość drugiej podstawy jest równa:
+A: 10 cm
+B: 4 cm
+C: 12 cm
+D: 6 cm
+POPRAWNA: D
+@KONIEC
+@WERSJA 6
+Trapez ma pole równe 56 $$\mathrm{cm}^{2}$$. Jedna z jego podstaw ma długość 6 cm, a wysokość 8 cm. Długość drugiej podstawy jest równa:
+A: 8 cm
+B: 10 cm
+C: 12 cm
+D: 2 cm
+POPRAWNA: A
+@KONIEC
+@WERSJA 7
+Trapez ma pole równe 36 $$\mathrm{cm}^{2}$$. Jedna z jego podstaw ma długość 8 cm, a wysokość 4 cm. Długość drugiej podstawy jest równa:
+A: 6 cm
+B: 10 cm
+C: 8 cm
+D: 14 cm
+POPRAWNA: B
+@KONIEC
+@WERSJA 8
+Trapez ma pole równe 66 $$\mathrm{cm}^{2}$$. Jedna z jego podstaw ma długość 10 cm, a wysokość 6 cm. Długość drugiej podstawy jest równa:
+A: 8 cm
+B: 10 cm
+C: 12 cm
+D: 16 cm
+POPRAWNA: C
+@KONIEC
+@WERSJA 9
+Trapez ma pole równe 64 $$\mathrm{cm}^{2}$$. Jedna z jego podstaw ma długość 12 cm, a wysokość 8 cm. Długość drugiej podstawy jest równa:
+A: 8 cm
+B: 6 cm
+C: 2 cm
+D: 4 cm
+POPRAWNA: D
+@KONIEC
+@WERSJA 10
+Trapez ma pole równe 40 $$\mathrm{cm}^{2}$$. Jedna z jego podstaw ma długość 14 cm, a wysokość 4 cm. Długość drugiej podstawy jest równa:
+A: 6 cm
+B: 12 cm
+C: 2 cm
+D: 10 cm
+POPRAWNA: A
+@KONIEC
+@KONIEC_ZADANIA
+
+@ZADANIE PF
+@WERSJA 1
+W trójkącie ABC, w którym |AC|=|BC|, poprowadzono wysokość CD. Obwód trójkąta ACD jest równy 12 cm, a obwód trójkąta ABC jest równy 16 cm.
+1: Obwód trójkąta BCD jest równy 12 cm. | P
+2: Wysokość CD ma długość 7 cm. | F
+POPRAWNA: PF
+@KONIEC
+@WERSJA 2
+W trójkącie ABC, w którym |AC|=|BC|, poprowadzono wysokość CD. Obwód trójkąta ACD jest równy 30 cm, a obwód trójkąta ABC jest równy 36 cm.
+1: Obwód trójkąta BCD jest równy 34 cm. | F
+2: Wysokość CD ma długość 12 cm. | P
+POPRAWNA: FP
+@KONIEC
+@WERSJA 3
+W trójkącie ABC, w którym |AC|=|BC|, poprowadzono wysokość CD. Obwód trójkąta ACD jest równy 40 cm, a obwód trójkąta ABC jest równy 50 cm.
+1: Obwód trójkąta BCD jest równy 44 cm. | F
+2: Wysokość CD ma długość 18 cm. | F
+POPRAWNA: FF
+@KONIEC
+@WERSJA 4
+W trójkącie ABC, w którym |AC|=|BC|, poprowadzono wysokość CD. Obwód trójkąta ACD jest równy 56 cm, a obwód trójkąta ABC jest równy 64 cm.
+1: Obwód trójkąta BCD jest równy 56 cm. | P
+2: Wysokość CD ma długość 24 cm. | P
+POPRAWNA: PP
+@KONIEC
+@WERSJA 5
+W trójkącie ABC, w którym |AC|=|BC|, poprowadzono wysokość CD. Obwód trójkąta ACD jest równy 36 cm, a obwód trójkąta ABC jest równy 48 cm.
+1: Obwód trójkąta BCD jest równy 36 cm. | P
+2: Wysokość CD ma długość 15 cm. | F
+POPRAWNA: PF
+@KONIEC
+@WERSJA 6
+W trójkącie ABC, w którym |AC|=|BC|, poprowadzono wysokość CD. Obwód trójkąta ACD jest równy 48 cm, a obwód trójkąta ABC jest równy 64 cm.
+1: Obwód trójkąta BCD jest równy 52 cm. | F
+2: Wysokość CD ma długość 16 cm. | P
+POPRAWNA: FP
+@KONIEC
+@WERSJA 7
+W trójkącie ABC, w którym |AC|=|BC|, poprowadzono wysokość CD. Obwód trójkąta ACD jest równy 24 cm, a obwód trójkąta ABC jest równy 32 cm.
+1: Obwód trójkąta BCD jest równy 28 cm. | F
+2: Wysokość CD ma długość 11 cm. | F
+POPRAWNA: FF
+@KONIEC
+@WERSJA 8
+W trójkącie ABC, w którym |AC|=|BC|, poprowadzono wysokość CD. Obwód trójkąta ACD jest równy 60 cm, a obwód trójkąta ABC jest równy 72 cm.
+1: Obwód trójkąta BCD jest równy 60 cm. | P
+2: Wysokość CD ma długość 24 cm. | P
+POPRAWNA: PP
+@KONIEC
+@WERSJA 9
+W trójkącie ABC, w którym |AC|=|BC|, poprowadzono wysokość CD. Obwód trójkąta ACD jest równy 60 cm, a obwód trójkąta ABC jest równy 80 cm.
+1: Obwód trójkąta BCD jest równy 60 cm. | P
+2: Wysokość CD ma długość 23 cm. | F
+POPRAWNA: PF
+@KONIEC
+@WERSJA 10
+W trójkącie ABC, w którym |AC|=|BC|, poprowadzono wysokość CD. Obwód trójkąta ACD jest równy 84 cm, a obwód trójkąta ABC jest równy 98 cm.
+1: Obwód trójkąta BCD jest równy 88 cm. | F
+2: Wysokość CD ma długość 35 cm. | P
+POPRAWNA: FP
+@KONIEC
+@KONIEC_ZADANIA
+
+@ZADANIE ABCD
+@WERSJA 1
+Na rysunku przedstawiono równoległobok ABCD i trójkąt równoramienny AED, w którym |DE|=|AE|. Miara kąta α jest równa 100º.
+Jaką miarę ma kąt β?
+![Rysunek do zadania 7](zad07.png)
+A: 160º
+B: 176º
+C: 152º
+D: 136º
+POPRAWNA: A
+@KONIEC
+@WERSJA 2
+Na rysunku przedstawiono równoległobok ABCD i trójkąt równoramienny AED, w którym |DE|=|AE|. Miara kąta α jest równa 104º.
+Jaką miarę ma kąt β?
+![Rysunek do zadania 7](zad07.png)
+A: 168º
+B: 152º
+C: 128º
+D: 160º
+POPRAWNA: B
+@KONIEC
+@WERSJA 3
+Na rysunku przedstawiono równoległobok ABCD i trójkąt równoramienny AED, w którym |DE|=|AE|. Miara kąta α jest równa 108º.
+Jaką miarę ma kąt β?
+![Rysunek do zadania 7](zad07.png)
+A: 168º
+B: 136º
+C: 144º
+D: 128º
+POPRAWNA: C
+@KONIEC
+@WERSJA 4
+Na rysunku przedstawiono równoległobok ABCD i trójkąt równoramienny AED, w którym |DE|=|AE|. Miara kąta α jest równa 112º.
+Jaką miarę ma kąt β?
+![Rysunek do zadania 7](zad07.png)
+A: 128º
+B: 144º
+C: 160º
+D: 136º
+POPRAWNA: D
+@KONIEC
+@WERSJA 5
+Na rysunku przedstawiono równoległobok ABCD i trójkąt równoramienny AED, w którym |DE|=|AE|. Miara kąta α jest równa 116º.
+Jaką miarę ma kąt β?
+![Rysunek do zadania 7](zad07.png)
+A: 128º
+B: 136º
+C: 120º
+D: 112º
+POPRAWNA: A
+@KONIEC
+@WERSJA 6
+Na rysunku przedstawiono równoległobok ABCD i trójkąt równoramienny AED, w którym |DE|=|AE|. Miara kąta α jest równa 120º.
+Jaką miarę ma kąt β?
+![Rysunek do zadania 7](zad07.png)
+A: 144º
+B: 120º
+C: 136º
+D: 104º
+POPRAWNA: B
+@KONIEC
+@WERSJA 7
+Na rysunku przedstawiono równoległobok ABCD i trójkąt równoramienny AED, w którym |DE|=|AE|. Miara kąta α jest równa 124º.
+Jaką miarę ma kąt β?
+![Rysunek do zadania 7](zad07.png)
+A: 104º
+B: 120º
+C: 112º
+D: 136º
+POPRAWNA: C
+@KONIEC
+@WERSJA 8
+Na rysunku przedstawiono równoległobok ABCD i trójkąt równoramienny AED, w którym |DE|=|AE|. Miara kąta α jest równa 128º.
+Jaką miarę ma kąt β?
+![Rysunek do zadania 7](zad07.png)
+A: 128º
+B: 120º
+C: 88º
+D: 104º
+POPRAWNA: D
+@KONIEC
+@WERSJA 9
+Na rysunku przedstawiono równoległobok ABCD i trójkąt równoramienny AED, w którym |DE|=|AE|. Miara kąta α jest równa 132º.
+Jaką miarę ma kąt β?
+![Rysunek do zadania 7](zad07.png)
+A: 96º
+B: 120º
+C: 104º
+D: 72º
+POPRAWNA: A
+@KONIEC
+@WERSJA 10
+Na rysunku przedstawiono równoległobok ABCD i trójkąt równoramienny AED, w którym |DE|=|AE|. Miara kąta α jest równa 136º.
+Jaką miarę ma kąt β?
+![Rysunek do zadania 7](zad07.png)
+A: 64º
+B: 88º
+C: 112º
+D: 96º
+POPRAWNA: B
+@KONIEC
+@KONIEC_ZADANIA
+
+@ZADANIE PF
+@WERSJA 1
+Kąty 𝛼, 𝛽, 𝛾 pewnego trójkąta spełniają dwa warunki: 𝛼+𝛽=110° i 𝛼+𝛾=130°.
+1: Kąt α ma miarę 65º. | F
+2: Różnica między kątem największym a kątem najmniejszym jest równa 20º. | P
+POPRAWNA: FP
+@KONIEC
+@WERSJA 2
+Kąty 𝛼, 𝛽, 𝛾 pewnego trójkąta spełniają dwa warunki: 𝛼+𝛽=135° i 𝛼+𝛾=100°.
+1: Kąt α ma miarę 60º. | F
+2: Różnica między kątem największym a kątem najmniejszym jest równa 45º. | F
+POPRAWNA: FF
+@KONIEC
+@WERSJA 3
+Kąty 𝛼, 𝛽, 𝛾 pewnego trójkąta spełniają dwa warunki: 𝛼+𝛽=105° i 𝛼+𝛾=140°.
+1: Kąt α ma miarę 65º. | P
+2: Różnica między kątem największym a kątem najmniejszym jest równa 35º. | P
+POPRAWNA: PP
+@KONIEC
+@WERSJA 4
+Kąty 𝛼, 𝛽, 𝛾 pewnego trójkąta spełniają dwa warunki: 𝛼+𝛽=110° i 𝛼+𝛾=115°.
+1: Kąt α ma miarę 45º. | P
+2: Różnica między kątem największym a kątem najmniejszym jest równa 35º. | F
+POPRAWNA: PF
+@KONIEC
+@WERSJA 5
+Kąty 𝛼, 𝛽, 𝛾 pewnego trójkąta spełniają dwa warunki: 𝛼+𝛽=135° i 𝛼+𝛾=120°.
+1: Kąt α ma miarę 80º. | F
+2: Różnica między kątem największym a kątem najmniejszym jest równa 30º. | P
+POPRAWNA: FP
+@KONIEC
+@WERSJA 6
+Kąty 𝛼, 𝛽, 𝛾 pewnego trójkąta spełniają dwa warunki: 𝛼+𝛽=125° i 𝛼+𝛾=105°.
+1: Kąt α ma miarę 55º. | F
+2: Różnica między kątem największym a kątem najmniejszym jest równa 35º. | F
+POPRAWNA: FF
+@KONIEC
+@WERSJA 7
+Kąty 𝛼, 𝛽, 𝛾 pewnego trójkąta spełniają dwa warunki: 𝛼+𝛽=105° i 𝛼+𝛾=145°.
+1: Kąt α ma miarę 70º. | P
+2: Różnica między kątem największym a kątem najmniejszym jest równa 40º. | P
+POPRAWNA: PP
+@KONIEC
+@WERSJA 8
+Kąty 𝛼, 𝛽, 𝛾 pewnego trójkąta spełniają dwa warunki: 𝛼+𝛽=100° i 𝛼+𝛾=120°.
+1: Kąt α ma miarę 40º. | P
+2: Różnica między kątem największym a kątem najmniejszym jest równa 50º. | F
+POPRAWNA: PF
+@KONIEC
+@WERSJA 9
+Kąty 𝛼, 𝛽, 𝛾 pewnego trójkąta spełniają dwa warunki: 𝛼+𝛽=135° i 𝛼+𝛾=125°.
+1: Kąt α ma miarę 85º. | F
+2: Różnica między kątem największym a kątem najmniejszym jest równa 35º. | P
+POPRAWNA: FP
+@KONIEC
+@WERSJA 10
+Kąty 𝛼, 𝛽, 𝛾 pewnego trójkąta spełniają dwa warunki: 𝛼+𝛽=135° i 𝛼+𝛾=110°.
+1: Kąt α ma miarę 70º. | F
+2: Różnica między kątem największym a kątem najmniejszym jest równa 35º. | F
+POPRAWNA: FF
+@KONIEC
+@KONIEC_ZADANIA
+
+@ZADANIE PF
+@WERSJA 1
+Zależność między liczbą przekątnych (k) a liczbą boków (n) wielokąta wypukłego określa wzór:
+$$k=\frac{n(n-3)}{2}$$
+1: Liczba przekątnych w siedmiokącie wypukłym jest o 15 większa od liczby przekątnych w czworokącie wypukłym. | F
+2: Liczba przekątnych w ośmiokącie wypukłym jest o 19 większa od liczby przekątnych w pięciokącie wypukłym. | F
+POPRAWNA: FF
+@KONIEC
+@WERSJA 2
+Zależność między liczbą przekątnych (k) a liczbą boków (n) wielokąta wypukłego określa wzór:
+$$k=\frac{n(n-3)}{2}$$
+1: Liczba przekątnych w ośmiokącie wypukłym jest o 15 większa od liczby przekątnych w pięciokącie wypukłym. | P
+2: Liczba przekątnych w dziewięciokącie wypukłym jest o 18 większa od liczby przekątnych w sześciokącie wypukłym. | P
+POPRAWNA: PP
+@KONIEC
+@WERSJA 3
+Zależność między liczbą przekątnych (k) a liczbą boków (n) wielokąta wypukłego określa wzór:
+$$k=\frac{n(n-3)}{2}$$
+1: Liczba przekątnych w dziewięciokącie wypukłym jest o 18 większa od liczby przekątnych w sześciokącie wypukłym. | P
+2: Liczba przekątnych w dziesięciokącie wypukłym jest o 25 większa od liczby przekątnych w siedmiokącie wypukłym. | F
+POPRAWNA: PF
+@KONIEC
+@WERSJA 4
+Zależność między liczbą przekątnych (k) a liczbą boków (n) wielokąta wypukłego określa wzór:
+$$k=\frac{n(n-3)}{2}$$
+1: Liczba przekątnych dziesięciokącie wypukłym jest o 36 większa od liczby przekątnych w czworokącie wypukłym. | F
+2: Liczba przekątnych w jedenastokącie wypukłym jest o 39 większa od liczby przekątnych w pięciokącie wypukłym. | P
+POPRAWNA: FP
+@KONIEC
+@WERSJA 5
+Zależność między liczbą przekątnych (k) a liczbą boków (n) wielokąta wypukłego określa wzór:
+$$k=\frac{n(n-3)}{2}$$
+1: Liczba przekątnych w jedenastokącie wypukłym jest o 42 większa od liczby przekątnych w pięciokącie wypukłym. | F
+2: Liczba przekątnych w dwunastokącie wypukłym jest o 49 większa od liczby przekątnych w sześciokącie wypukłym. | F
+POPRAWNA: FF
+@KONIEC
+@WERSJA 6
+Zależność między liczbą przekątnych (k) a liczbą boków (n) wielokąta wypukłego określa wzór:
+$$k=\frac{n(n-3)}{2}$$
+1: Liczba przekątnych w dwunastokącie wypukłym jest o 45 większa od liczby przekątnych w sześciokącie wypukłym. | P
+2: Liczba przekątnych w ośmiokącie wypukłym jest o 6 większa od liczby przekątnych w siedmiokącie wypukłym. | P
+POPRAWNA: PP
+@KONIEC
+@WERSJA 7
+Zależność między liczbą przekątnych (k) a liczbą boków (n) wielokąta wypukłego określa wzór:
+$$k=\frac{n(n-3)}{2}$$
+1: Liczba przekątnych w siedmiokącie wypukłym jest o 12 większa od liczby przekątnych w czworokącie wypukłym. | P
+2: Liczba przekątnych w dziewięciokącie wypukłym jest o 26 większa od liczby przekątnych w pięciokącie wypukłym. | F
+POPRAWNA: PF
+@KONIEC
+@WERSJA 8
+Zależność między liczbą przekątnych (k) a liczbą boków (n) wielokąta wypukłego określa wzór:
+$$k=\frac{n(n-3)}{2}$$
+1: Liczba przekątnych w ośmiokącie wypukłym jest o 18 większa od liczby przekątnych w pięciokącie wypukłym. | F
+2: Liczba przekątnych w dziesięciokącie wypukłym jest o 26 większa od liczby przekątnych w sześciokącie wypukłym. | P
+POPRAWNA: FP
+@KONIEC
+@WERSJA 9
+Zależność między liczbą przekątnych (k) a liczbą boków (n) wielokąta wypukłego określa wzór:
+$$k=\frac{n(n-3)}{2}$$
+1: Liczba przekątnych w dziewięciokącie wypukłym jest o 21 większa od liczby przekątnych w sześciokącie wypukłym. | F
+2: Liczba przekątnych w jedenastokącie wypukłym jest o 34 większa od liczby przekątnych w siedmiokącie wypukłym. | F
+POPRAWNA: FF
+@KONIEC
+@WERSJA 10
+Zależność między liczbą przekątnych (k) a liczbą boków (n) wielokąta wypukłego określa wzór:
+$$k=\frac{n(n-3)}{2}$$
+1: Liczba przekątnych w dziesięciokącie wypukłym jest o 33 większa od liczby przekątnych w czworokącie wypukłym. | P
+2: Liczba przekątnych w dwunastokącie wypukłym jest o 49 większa od liczby przekątnych w pięciokącie wypukłym. | P
+POPRAWNA: PP
+@KONIEC
+@KONIEC_ZADANIA
+
+@ZADANIE ABCD
+@WERSJA 1
+W trójkącie ABC narysowano dwie wysokości CD i AE. Kąt rozwarty pomiędzy tymi wysokościami ma miarę α=112º.
+Jaką miarę ma kąt β zaznaczony na rysunku
+![Rysunek do zadania 10](zad10.png)
+A: 26º
+B: 22º
+C: 18º
+D: 10º
+POPRAWNA: B
+@KONIEC
+@WERSJA 2
+W trójkącie ABC narysowano dwie wysokości CD i AE. Kąt rozwarty pomiędzy tymi wysokościami ma miarę α=116º.
+Jaką miarę ma kąt β zaznaczony na rysunku
+![Rysunek do zadania 10](zad10.png)
+A: 14º
+B: 34º
+C: 26º
+D: 22º
+POPRAWNA: C
+@KONIEC
+@WERSJA 3
+W trójkącie ABC narysowano dwie wysokości CD i AE. Kąt rozwarty pomiędzy tymi wysokościami ma miarę α=120º.
+Jaką miarę ma kąt β zaznaczony na rysunku
+![Rysunek do zadania 10](zad10.png)
+A: 42º
+B: 34º
+C: 18º
+D: 30º
+POPRAWNA: D
+@KONIEC
+@WERSJA 4
+W trójkącie ABC narysowano dwie wysokości CD i AE. Kąt rozwarty pomiędzy tymi wysokościami ma miarę α=124º.
+Jaką miarę ma kąt β zaznaczony na rysunku
+![Rysunek do zadania 10](zad10.png)
+A: 34º
+B: 26º
+C: 46º
+D: 22º
+POPRAWNA: A
+@KONIEC
+@WERSJA 5
+W trójkącie ABC narysowano dwie wysokości CD i AE. Kąt rozwarty pomiędzy tymi wysokościami ma miarę α=128º.
+Jaką miarę ma kąt β zaznaczony na rysunku
+![Rysunek do zadania 10](zad10.png)
+A: 26º
+B: 38º
+C: 42º
+D: 46º
+POPRAWNA: B
+@KONIEC
+@WERSJA 6
+W trójkącie ABC narysowano dwie wysokości CD i AE. Kąt rozwarty pomiędzy tymi wysokościami ma miarę α=132º.
+Jaką miarę ma kąt β zaznaczony na rysunku
+![Rysunek do zadania 10](zad10.png)
+A: 50º
+B: 30º
+C: 42º
+D: 38º
+POPRAWNA: C
+@KONIEC
+@WERSJA 7
+W trójkącie ABC narysowano dwie wysokości CD i AE. Kąt rozwarty pomiędzy tymi wysokościami ma miarę α=136º.
+Jaką miarę ma kąt β zaznaczony na rysunku
+![Rysunek do zadania 10](zad10.png)
+A: 54º
+B: 38º
+C: 34º
+D: 46º
+POPRAWNA: D
+@KONIEC
+@WERSJA 8
+W trójkącie ABC narysowano dwie wysokości CD i AE. Kąt rozwarty pomiędzy tymi wysokościami ma miarę α=140º.
+Jaką miarę ma kąt β zaznaczony na rysunku
+![Rysunek do zadania 10](zad10.png)
+A: 50º
+B: 46º
+C: 42º
+D: 58º
+POPRAWNA: A
+@KONIEC
+@WERSJA 9
+W trójkącie ABC narysowano dwie wysokości CD i AE. Kąt rozwarty pomiędzy tymi wysokościami ma miarę α=144º.
+Jaką miarę ma kąt β zaznaczony na rysunku
+![Rysunek do zadania 10](zad10.png)
+A: 50º
+B: 54º
+C: 62º
+D: 66º
+POPRAWNA: B
+@KONIEC
+@WERSJA 10
+W trójkącie ABC narysowano dwie wysokości CD i AE. Kąt rozwarty pomiędzy tymi wysokościami ma miarę α=148º.
+Jaką miarę ma kąt β zaznaczony na rysunku
+![Rysunek do zadania 10](zad10.png)
+A: 46º
+B: 66º
+C: 58º
+D: 70º
+POPRAWNA: C
+@KONIEC
+@KONIEC_ZADANIA
