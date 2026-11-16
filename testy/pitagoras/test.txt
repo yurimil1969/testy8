@@ -1,0 +1,950 @@
+@ZADANIE ABCD
+@WERSJA 1
+Na rysunku trójkąt $$ABC$$ jest prostokątny. Przeciwprostokątna $$AC$$ ma długość 13 cm, a przyprostokątna $$BC$$ ma długość 5 cm. Oblicz długość $$AB$$.
+![Trójkąt ABC](trojkat.svg)
+A: 12 cm
+B: 17 cm
+C: 13 cm
+D: 5 cm
+POPRAWNA: A
+@KONIEC
+@WERSJA 2
+Na rysunku trójkąt $$ABC$$ jest prostokątny. Przeciwprostokątna $$AC$$ ma długość 17 cm, a przyprostokątna $$BC$$ ma długość 8 cm. Oblicz długość $$AB$$.
+![Trójkąt ABC](trojkat.svg)
+A: 8 cm
+B: 15 cm
+C: 23 cm
+D: 17 cm
+POPRAWNA: B
+@KONIEC
+@WERSJA 3
+Na rysunku trójkąt $$ABC$$ jest prostokątny. Przeciwprostokątna $$AC$$ ma długość 25 cm, a przyprostokątna $$BC$$ ma długość 7 cm. Oblicz długość $$AB$$.
+![Trójkąt ABC](trojkat.svg)
+A: 24 cm
+B: 31 cm
+C: 25 cm
+D: 7 cm
+POPRAWNA: A
+@KONIEC
+@WERSJA 4
+Na rysunku trójkąt $$ABC$$ jest prostokątny. Przeciwprostokątna $$AC$$ ma długość 29 cm, a przyprostokątna $$BC$$ ma długość 20 cm. Oblicz długość $$AB$$.
+![Trójkąt ABC](trojkat.svg)
+A: 41 cm
+B: 20 cm
+C: 21 cm
+D: 29 cm
+POPRAWNA: C
+@KONIEC
+@WERSJA 5
+Na rysunku trójkąt $$ABC$$ jest prostokątny. Przeciwprostokątna $$AC$$ ma długość 37 cm, a przyprostokątna $$BC$$ ma długość 12 cm. Oblicz długość $$AB$$.
+![Trójkąt ABC](trojkat.svg)
+A: 35 cm
+B: 47 cm
+C: 37 cm
+D: 12 cm
+POPRAWNA: A
+@KONIEC
+@WERSJA 6
+Na rysunku trójkąt $$ABC$$ jest prostokątny. Przeciwprostokątna $$AC$$ ma długość 41 cm, a przyprostokątna $$BC$$ ma długość 9 cm. Oblicz długość $$AB$$.
+![Trójkąt ABC](trojkat.svg)
+A: 40 cm
+B: 9 cm
+C: 49 cm
+D: 41 cm
+POPRAWNA: A
+@KONIEC
+@WERSJA 7
+Na rysunku trójkąt $$ABC$$ jest prostokątny. Przeciwprostokątna $$AC$$ ma długość 53 cm, a przyprostokątna $$BC$$ ma długość 28 cm. Oblicz długość $$AB$$.
+![Trójkąt ABC](trojkat.svg)
+A: 45 cm
+B: 28 cm
+C: 73 cm
+D: 53 cm
+POPRAWNA: A
+@KONIEC
+@WERSJA 8
+Na rysunku trójkąt $$ABC$$ jest prostokątny. Przeciwprostokątna $$AC$$ ma długość 61 cm, a przyprostokątna $$BC$$ ma długość 11 cm. Oblicz długość $$AB$$.
+![Trójkąt ABC](trojkat.svg)
+A: 60 cm
+B: 61 cm
+C: 11 cm
+D: 71 cm
+POPRAWNA: A
+@KONIEC
+@WERSJA 9
+Na rysunku trójkąt $$ABC$$ jest prostokątny. Przeciwprostokątna $$AC$$ ma długość 65 cm, a przyprostokątna $$BC$$ ma długość 16 cm. Oblicz długość $$AB$$.
+![Trójkąt ABC](trojkat.svg)
+A: 16 cm
+B: 63 cm
+C: 65 cm
+D: 79 cm
+POPRAWNA: B
+@KONIEC
+@WERSJA 10
+Na rysunku trójkąt $$ABC$$ jest prostokątny. Przeciwprostokątna $$AC$$ ma długość 65 cm, a przyprostokątna $$BC$$ ma długość 33 cm. Oblicz długość $$AB$$.
+![Trójkąt ABC](trojkat.svg)
+A: 56 cm
+B: 89 cm
+C: 65 cm
+D: 33 cm
+POPRAWNA: A
+@KONIEC
+@KONIEC_ZADANIA
+@ZADANIE ABCD
+@WERSJA 1
+Przyprostokątne trójkąta prostokątnego mają długości 6 cm i 8 cm. Ile centymetrów ma przeciwprostokątna?
+A: 12 cm
+B: 10 cm
+C: 2 cm
+D: 14 cm
+POPRAWNA: B
+@KONIEC
+@WERSJA 2
+Przyprostokątne trójkąta prostokątnego mają długości 5 cm i 12 cm. Ile centymetrów ma przeciwprostokątna?
+A: 17 cm
+B: 15 cm
+C: 13 cm
+D: 7 cm
+POPRAWNA: C
+@KONIEC
+@WERSJA 3
+Przyprostokątne trójkąta prostokątnego mają długości 8 cm i 15 cm. Ile centymetrów ma przeciwprostokątna?
+A: 7 cm
+B: 17 cm
+C: 19 cm
+D: 23 cm
+POPRAWNA: B
+@KONIEC
+@WERSJA 4
+Przyprostokątne trójkąta prostokątnego mają długości 7 cm i 24 cm. Ile centymetrów ma przeciwprostokątna?
+A: 17 cm
+B: 25 cm
+C: 27 cm
+D: 31 cm
+POPRAWNA: B
+@KONIEC
+@WERSJA 5
+Przyprostokątne trójkąta prostokątnego mają długości 9 cm i 12 cm. Ile centymetrów ma przeciwprostokątna?
+A: 21 cm
+B: 15 cm
+C: 17 cm
+D: 3 cm
+POPRAWNA: B
+@KONIEC
+@WERSJA 6
+Przyprostokątne trójkąta prostokątnego mają długości 12 cm i 16 cm. Ile centymetrów ma przeciwprostokątna?
+A: 22 cm
+B: 20 cm
+C: 4 cm
+D: 28 cm
+POPRAWNA: B
+@KONIEC
+@WERSJA 7
+Przyprostokątne trójkąta prostokątnego mają długości 10 cm i 24 cm. Ile centymetrów ma przeciwprostokątna?
+A: 26 cm
+B: 28 cm
+C: 14 cm
+D: 34 cm
+POPRAWNA: A
+@KONIEC
+@WERSJA 8
+Przyprostokątne trójkąta prostokątnego mają długości 15 cm i 20 cm. Ile centymetrów ma przeciwprostokątna?
+A: 25 cm
+B: 27 cm
+C: 35 cm
+D: 5 cm
+POPRAWNA: A
+@KONIEC
+@WERSJA 9
+Przyprostokątne trójkąta prostokątnego mają długości 20 cm i 21 cm. Ile centymetrów ma przeciwprostokątna?
+A: 41 cm
+B: 1 cm
+C: 29 cm
+D: 31 cm
+POPRAWNA: C
+@KONIEC
+@WERSJA 10
+Przyprostokątne trójkąta prostokątnego mają długości 14 cm i 48 cm. Ile centymetrów ma przeciwprostokątna?
+A: 34 cm
+B: 52 cm
+C: 50 cm
+D: 62 cm
+POPRAWNA: C
+@KONIEC
+@KONIEC_ZADANIA
+@ZADANIE ABCD
+@WERSJA 1
+W trójkącie prostokątnym przyprostokątne oznaczono literami p i q, a przeciwprostokątną literą r. Która równość jest poprawna?
+A: $$p + q = r$$
+B: $$p^2 − q^2 = r^2$$
+C: $$p^2 + q^2 = r^2$$
+D: $$p^2 + r^2 = q^2$$
+POPRAWNA: C
+@KONIEC
+@WERSJA 2
+W trójkącie prostokątnym przyprostokątne oznaczono literami m i n, a przeciwprostokątną literą k. Która równość jest poprawna?
+A: $$m^2 − n^2 = k^2$$
+B: $$m^2 + n^2 = k^2$$
+C: $$m^2 + k^2 = n^2$$
+D: $$m + n = k$$
+POPRAWNA: B
+@KONIEC
+@WERSJA 3
+W trójkącie prostokątnym przyprostokątne oznaczono literami x i y, a przeciwprostokątną literą z. Która równość jest poprawna?
+A: $$x^2 + y^2 = z^2$$
+B: $$x + y = z$$
+C: $$x^2 − y^2 = z^2$$
+D: $$x^2 + z^2 = y^2$$
+POPRAWNA: A
+@KONIEC
+@WERSJA 4
+W trójkącie prostokątnym przyprostokątne oznaczono literami a i b, a przeciwprostokątną literą c. Która równość jest poprawna?
+A: $$a^2 + b^2 = c^2$$
+B: $$a + b = c$$
+C: $$a^2 − b^2 = c^2$$
+D: $$a^2 + c^2 = b^2$$
+POPRAWNA: A
+@KONIEC
+@WERSJA 5
+W trójkącie prostokątnym przyprostokątne oznaczono literami u i v, a przeciwprostokątną literą w. Która równość jest poprawna?
+A: $$u^2 + w^2 = v^2$$
+B: $$u^2 + v^2 = w^2$$
+C: $$u + v = w$$
+D: $$u^2 − v^2 = w^2$$
+POPRAWNA: B
+@KONIEC
+@WERSJA 6
+W trójkącie prostokątnym przyprostokątne oznaczono literami d i e, a przeciwprostokątną literą f. Która równość jest poprawna?
+A: $$d^2 + f^2 = e^2$$
+B: $$d + e = f$$
+C: $$d^2 + e^2 = f^2$$
+D: $$d^2 − e^2 = f^2$$
+POPRAWNA: C
+@KONIEC
+@WERSJA 7
+W trójkącie prostokątnym przyprostokątne oznaczono literami s i t, a przeciwprostokątną literą h. Która równość jest poprawna?
+A: $$s^2 − t^2 = h^2$$
+B: $$s + t = h$$
+C: $$s^2 + t^2 = h^2$$
+D: $$s^2 + h^2 = t^2$$
+POPRAWNA: C
+@KONIEC
+@WERSJA 8
+W trójkącie prostokątnym przyprostokątne oznaczono literami j i k, a przeciwprostokątną literą l. Która równość jest poprawna?
+A: $$j + k = l$$
+B: $$j^2 + k^2 = l^2$$
+C: $$j^2 − k^2 = l^2$$
+D: $$j^2 + l^2 = k^2$$
+POPRAWNA: B
+@KONIEC
+@WERSJA 9
+W trójkącie prostokątnym przyprostokątne oznaczono literami g i h, a przeciwprostokątną literą i. Która równość jest poprawna?
+A: $$g + h = i$$
+B: $$g^2 + i^2 = h^2$$
+C: $$g^2 + h^2 = i^2$$
+D: $$g^2 − h^2 = i^2$$
+POPRAWNA: C
+@KONIEC
+@WERSJA 10
+W trójkącie prostokątnym przyprostokątne oznaczono literami r i s, a przeciwprostokątną literą t. Która równość jest poprawna?
+A: $$r^2 + s^2 = t^2$$
+B: $$r + s = t$$
+C: $$r^2 + t^2 = s^2$$
+D: $$r^2 − s^2 = t^2$$
+POPRAWNA: A
+@KONIEC
+@KONIEC_ZADANIA
+@ZADANIE LUKI
+@WERSJA 1
+W trójkącie prostokątnym jedna przyprostokątna ma długość 6 cm, a przeciwprostokątna 10 cm. Uzupełnij zdania.
+---
+Druga przyprostokątna ma długość [[AB]] cm.
+---
+Pole trójkąta wynosi [[CD]] $$\mathrm{cm}^2$$.
+A: 8
+B: 10
+C: 30
+D: 24
+POPRAWNA: AD
+@KONIEC
+@WERSJA 2
+W trójkącie prostokątnym jedna przyprostokątna ma długość 8 cm, a przeciwprostokątna 17 cm. Uzupełnij zdania.
+---
+Druga przyprostokątna ma długość [[AB]] cm.
+---
+Pole trójkąta wynosi [[CD]] $$\mathrm{cm}^2$$.
+A: 15
+B: 17
+C: 60
+D: 68
+POPRAWNA: AC
+@KONIEC
+@WERSJA 3
+W trójkącie prostokątnym jedna przyprostokątna ma długość 7 cm, a przeciwprostokątna 25 cm. Uzupełnij zdania.
+---
+Druga przyprostokątna ma długość [[AB]] cm.
+---
+Pole trójkąta wynosi [[CD]] $$\mathrm{cm}^2$$.
+A: 24
+B: 26
+C: 84
+D: 91
+POPRAWNA: AC
+@KONIEC
+@WERSJA 4
+W trójkącie prostokątnym jedna przyprostokątna ma długość 20 cm, a przeciwprostokątna 29 cm. Uzupełnij zdania.
+---
+Druga przyprostokątna ma długość [[AB]] cm.
+---
+Pole trójkąta wynosi [[CD]] $$\mathrm{cm}^2$$.
+A: 23
+B: 21
+C: 210
+D: 230
+POPRAWNA: BC
+@KONIEC
+@WERSJA 5
+W trójkącie prostokątnym jedna przyprostokątna ma długość 12 cm, a przeciwprostokątna 37 cm. Uzupełnij zdania.
+---
+Druga przyprostokątna ma długość [[AB]] cm.
+---
+Pole trójkąta wynosi [[CD]] $$\mathrm{cm}^2$$.
+A: 37
+B: 35
+C: 210
+D: 222
+POPRAWNA: BC
+@KONIEC
+@WERSJA 6
+W trójkącie prostokątnym jedna przyprostokątna ma długość 9 cm, a przeciwprostokątna 41 cm. Uzupełnij zdania.
+---
+Druga przyprostokątna ma długość [[AB]] cm.
+---
+Pole trójkąta wynosi [[CD]] $$\mathrm{cm}^2$$.
+A: 40
+B: 42
+C: 189
+D: 180
+POPRAWNA: AD
+@KONIEC
+@WERSJA 7
+W trójkącie prostokątnym jedna przyprostokątna ma długość 28 cm, a przeciwprostokątna 53 cm. Uzupełnij zdania.
+---
+Druga przyprostokątna ma długość [[AB]] cm.
+---
+Pole trójkąta wynosi [[CD]] $$\mathrm{cm}^2$$.
+A: 47
+B: 45
+C: 630
+D: 658
+POPRAWNA: BC
+@KONIEC
+@WERSJA 8
+W trójkącie prostokątnym jedna przyprostokątna ma długość 11 cm, a przeciwprostokątna 61 cm. Uzupełnij zdania.
+---
+Druga przyprostokątna ma długość [[AB]] cm.
+---
+Pole trójkąta wynosi [[CD]] $$\mathrm{cm}^2$$.
+A: 62
+B: 60
+C: 330
+D: 341
+POPRAWNA: BC
+@KONIEC
+@WERSJA 9
+W trójkącie prostokątnym jedna przyprostokątna ma długość 16 cm, a przeciwprostokątna 65 cm. Uzupełnij zdania.
+---
+Druga przyprostokątna ma długość [[AB]] cm.
+---
+Pole trójkąta wynosi [[CD]] $$\mathrm{cm}^2$$.
+A: 65
+B: 63
+C: 504
+D: 520
+POPRAWNA: BC
+@KONIEC
+@WERSJA 10
+W trójkącie prostokątnym jedna przyprostokątna ma długość 33 cm, a przeciwprostokątna 65 cm. Uzupełnij zdania.
+---
+Druga przyprostokątna ma długość [[AB]] cm.
+---
+Pole trójkąta wynosi [[CD]] $$\mathrm{cm}^2$$.
+A: 58
+B: 56
+C: 957
+D: 924
+POPRAWNA: BD
+@KONIEC
+@KONIEC_ZADANIA
+@ZADANIE UZ
+@WERSJA 1
+Turysta przeszedł 6 km na wschód, a następnie 8 km na północ. Czy odległość w linii prostej od punktu startu jest większa niż 8 km? Wybierz odpowiedź i uzasadnienie.
+A: TAK
+B: NIE
+1: Odległość w linii prostej wynosi $$\sqrt{6^2+8^2}=10$$ km.
+2: Droga po obu odcinkach ma długość 14 km.
+3: Odległość w linii prostej wynosi 2 km.
+POPRAWNA: A1
+@KONIEC
+@WERSJA 2
+Turysta przeszedł 5 km na wschód, a następnie 12 km na północ. Czy odległość w linii prostej od punktu startu jest większa niż 15 km? Wybierz odpowiedź i uzasadnienie.
+A: TAK
+B: NIE
+1: Odległość w linii prostej wynosi $$\sqrt{5^2+12^2}=13$$ km.
+2: Droga po obu odcinkach ma długość 17 km.
+3: Odległość w linii prostej wynosi 7 km.
+POPRAWNA: B1
+@KONIEC
+@WERSJA 3
+Turysta przeszedł 8 km na wschód, a następnie 15 km na północ. Czy odległość w linii prostej od punktu startu jest większa niż 15 km? Wybierz odpowiedź i uzasadnienie.
+A: TAK
+B: NIE
+1: Odległość w linii prostej wynosi $$\sqrt{8^2+15^2}=17$$ km.
+2: Droga po obu odcinkach ma długość 23 km.
+3: Odległość w linii prostej wynosi 7 km.
+POPRAWNA: A1
+@KONIEC
+@WERSJA 4
+Turysta przeszedł 7 km na wschód, a następnie 24 km na północ. Czy odległość w linii prostej od punktu startu jest większa niż 27 km? Wybierz odpowiedź i uzasadnienie.
+A: TAK
+B: NIE
+1: Odległość w linii prostej wynosi $$\sqrt{7^2+24^2}=25$$ km.
+2: Droga po obu odcinkach ma długość 31 km.
+3: Odległość w linii prostej wynosi 17 km.
+POPRAWNA: B1
+@KONIEC
+@WERSJA 5
+Turysta przeszedł 9 km na wschód, a następnie 12 km na północ. Czy odległość w linii prostej od punktu startu jest większa niż 13 km? Wybierz odpowiedź i uzasadnienie.
+A: TAK
+B: NIE
+1: Odległość w linii prostej wynosi $$\sqrt{9^2+12^2}=15$$ km.
+2: Droga po obu odcinkach ma długość 21 km.
+3: Odległość w linii prostej wynosi 3 km.
+POPRAWNA: A1
+@KONIEC
+@WERSJA 6
+Turysta przeszedł 12 km na wschód, a następnie 16 km na północ. Czy odległość w linii prostej od punktu startu jest większa niż 22 km? Wybierz odpowiedź i uzasadnienie.
+A: TAK
+B: NIE
+1: Odległość w linii prostej wynosi $$\sqrt{12^2+16^2}=20$$ km.
+2: Droga po obu odcinkach ma długość 28 km.
+3: Odległość w linii prostej wynosi 4 km.
+POPRAWNA: B1
+@KONIEC
+@WERSJA 7
+Turysta przeszedł 10 km na wschód, a następnie 24 km na północ. Czy odległość w linii prostej od punktu startu jest większa niż 24 km? Wybierz odpowiedź i uzasadnienie.
+A: TAK
+B: NIE
+1: Odległość w linii prostej wynosi $$\sqrt{10^2+24^2}=26$$ km.
+2: Droga po obu odcinkach ma długość 34 km.
+3: Odległość w linii prostej wynosi 14 km.
+POPRAWNA: A1
+@KONIEC
+@WERSJA 8
+Turysta przeszedł 15 km na wschód, a następnie 20 km na północ. Czy odległość w linii prostej od punktu startu jest większa niż 27 km? Wybierz odpowiedź i uzasadnienie.
+A: TAK
+B: NIE
+1: Odległość w linii prostej wynosi $$\sqrt{15^2+20^2}=25$$ km.
+2: Droga po obu odcinkach ma długość 35 km.
+3: Odległość w linii prostej wynosi 5 km.
+POPRAWNA: B1
+@KONIEC
+@WERSJA 9
+Turysta przeszedł 20 km na wschód, a następnie 21 km na północ. Czy odległość w linii prostej od punktu startu jest większa niż 27 km? Wybierz odpowiedź i uzasadnienie.
+A: TAK
+B: NIE
+1: Odległość w linii prostej wynosi $$\sqrt{20^2+21^2}=29$$ km.
+2: Droga po obu odcinkach ma długość 41 km.
+3: Odległość w linii prostej wynosi 1 km.
+POPRAWNA: A1
+@KONIEC
+@WERSJA 10
+Turysta przeszedł 14 km na wschód, a następnie 48 km na północ. Czy odległość w linii prostej od punktu startu jest większa niż 52 km? Wybierz odpowiedź i uzasadnienie.
+A: TAK
+B: NIE
+1: Odległość w linii prostej wynosi $$\sqrt{14^2+48^2}=50$$ km.
+2: Droga po obu odcinkach ma długość 62 km.
+3: Odległość w linii prostej wynosi 34 km.
+POPRAWNA: B1
+@KONIEC
+@KONIEC_ZADANIA
+@ZADANIE ABCD
+@WERSJA 1
+Równoległobok $$ABCD$$ ma podstawę $$AB$$ długości 19 cm. Wysokość opuszczona z D ma 8 cm, a odcinek podstawy między A i spodkiem tej wysokości ma 6 cm. Oblicz obwód równoległoboku.
+![Równoległobok](rownoleglobok.svg)
+A: 58 cm
+B: 190 cm
+C: 48 cm
+D: 54 cm
+POPRAWNA: A
+@KONIEC
+@WERSJA 2
+Równoległobok $$ABCD$$ ma podstawę $$AB$$ długości 21 cm. Wysokość opuszczona z D ma 12 cm, a odcinek podstawy między A i spodkiem tej wysokości ma 5 cm. Oblicz obwód równoległoboku.
+![Równoległobok](rownoleglobok.svg)
+A: 68 cm
+B: 66 cm
+C: 273 cm
+D: 55 cm
+POPRAWNA: A
+@KONIEC
+@WERSJA 3
+Równoległobok $$ABCD$$ ma podstawę $$AB$$ długości 23 cm. Wysokość opuszczona z D ma 15 cm, a odcinek podstawy między A i spodkiem tej wysokości ma 8 cm. Oblicz obwód równoległoboku.
+![Równoległobok](rownoleglobok.svg)
+A: 63 cm
+B: 391 cm
+C: 80 cm
+D: 76 cm
+POPRAWNA: C
+@KONIEC
+@WERSJA 4
+Równoległobok $$ABCD$$ ma podstawę $$AB$$ długości 26 cm. Wysokość opuszczona z D ma 24 cm, a odcinek podstawy między A i spodkiem tej wysokości ma 7 cm. Oblicz obwód równoległoboku.
+![Równoległobok](rownoleglobok.svg)
+A: 102 cm
+B: 100 cm
+C: 650 cm
+D: 77 cm
+POPRAWNA: A
+@KONIEC
+@WERSJA 5
+Równoległobok $$ABCD$$ ma podstawę $$AB$$ długości 29 cm. Wysokość opuszczona z D ma 20 cm, a odcinek podstawy między A i spodkiem tej wysokości ma 21 cm. Oblicz obwód równoległoboku.
+![Równoległobok](rownoleglobok.svg)
+A: 98 cm
+B: 87 cm
+C: 116 cm
+D: 841 cm
+POPRAWNA: C
+@KONIEC
+@WERSJA 6
+Równoległobok $$ABCD$$ ma podstawę $$AB$$ długości 31 cm. Wysokość opuszczona z D ma 12 cm, a odcinek podstawy między A i spodkiem tej wysokości ma 9 cm. Oblicz obwód równoległoboku.
+![Równoległobok](rownoleglobok.svg)
+A: 86 cm
+B: 465 cm
+C: 92 cm
+D: 77 cm
+POPRAWNA: C
+@KONIEC
+@WERSJA 7
+Równoległobok $$ABCD$$ ma podstawę $$AB$$ długości 34 cm. Wysokość opuszczona z D ma 16 cm, a odcinek podstawy między A i spodkiem tej wysokości ma 12 cm. Oblicz obwód równoległoboku.
+![Równoległobok](rownoleglobok.svg)
+A: 680 cm
+B: 108 cm
+C: 100 cm
+D: 88 cm
+POPRAWNA: B
+@KONIEC
+@WERSJA 8
+Równoległobok $$ABCD$$ ma podstawę $$AB$$ długości 37 cm. Wysokość opuszczona z D ma 24 cm, a odcinek podstawy między A i spodkiem tej wysokości ma 10 cm. Oblicz obwód równoległoboku.
+![Równoległobok](rownoleglobok.svg)
+A: 962 cm
+B: 122 cm
+C: 126 cm
+D: 100 cm
+POPRAWNA: C
+@KONIEC
+@WERSJA 9
+Równoległobok $$ABCD$$ ma podstawę $$AB$$ długości 41 cm. Wysokość opuszczona z D ma 21 cm, a odcinek podstawy między A i spodkiem tej wysokości ma 20 cm. Oblicz obwód równoległoboku.
+![Równoległobok](rownoleglobok.svg)
+A: 140 cm
+B: 111 cm
+C: 124 cm
+D: 1189 cm
+POPRAWNA: A
+@KONIEC
+@WERSJA 10
+Równoległobok $$ABCD$$ ma podstawę $$AB$$ długości 43 cm. Wysokość opuszczona z D ma 15 cm, a odcinek podstawy między A i spodkiem tej wysokości ma 20 cm. Oblicz obwód równoległoboku.
+![Równoległobok](rownoleglobok.svg)
+A: 116 cm
+B: 111 cm
+C: 136 cm
+D: 1075 cm
+POPRAWNA: C
+@KONIEC
+@KONIEC_ZADANIA
+@ZADANIE LUKI
+@WERSJA 1
+Romb ma bok długości 10 cm i jedną przekątną długości 12 cm. Uzupełnij zdania.
+---
+Druga przekątna ma długość [[AB]] cm.
+---
+Pole rombu wynosi [[CD]] $$\mathrm{cm}^2$$.
+A: 16
+B: 20
+C: 108
+D: 96
+POPRAWNA: AD
+@KONIEC
+@WERSJA 2
+Romb ma bok długości 13 cm i jedną przekątną długości 10 cm. Uzupełnij zdania.
+---
+Druga przekątna ma długość [[AB]] cm.
+---
+Pole rombu wynosi [[CD]] $$\mathrm{cm}^2$$.
+A: 24
+B: 28
+C: 130
+D: 120
+POPRAWNA: AD
+@KONIEC
+@WERSJA 3
+Romb ma bok długości 17 cm i jedną przekątną długości 16 cm. Uzupełnij zdania.
+---
+Druga przekątna ma długość [[AB]] cm.
+---
+Pole rombu wynosi [[CD]] $$\mathrm{cm}^2$$.
+A: 34
+B: 30
+C: 240
+D: 256
+POPRAWNA: BC
+@KONIEC
+@WERSJA 4
+Romb ma bok długości 25 cm i jedną przekątną długości 14 cm. Uzupełnij zdania.
+---
+Druga przekątna ma długość [[AB]] cm.
+---
+Pole rombu wynosi [[CD]] $$\mathrm{cm}^2$$.
+A: 48
+B: 52
+C: 350
+D: 336
+POPRAWNA: AD
+@KONIEC
+@WERSJA 5
+Romb ma bok długości 15 cm i jedną przekątną długości 18 cm. Uzupełnij zdania.
+---
+Druga przekątna ma długość [[AB]] cm.
+---
+Pole rombu wynosi [[CD]] $$\mathrm{cm}^2$$.
+A: 28
+B: 24
+C: 234
+D: 216
+POPRAWNA: BD
+@KONIEC
+@WERSJA 6
+Romb ma bok długości 20 cm i jedną przekątną długości 24 cm. Uzupełnij zdania.
+---
+Druga przekątna ma długość [[AB]] cm.
+---
+Pole rombu wynosi [[CD]] $$\mathrm{cm}^2$$.
+A: 32
+B: 36
+C: 384
+D: 408
+POPRAWNA: AC
+@KONIEC
+@WERSJA 7
+Romb ma bok długości 26 cm i jedną przekątną długości 20 cm. Uzupełnij zdania.
+---
+Druga przekątna ma długość [[AB]] cm.
+---
+Pole rombu wynosi [[CD]] $$\mathrm{cm}^2$$.
+A: 48
+B: 52
+C: 500
+D: 480
+POPRAWNA: AD
+@KONIEC
+@WERSJA 8
+Romb ma bok długości 25 cm i jedną przekątną długości 30 cm. Uzupełnij zdania.
+---
+Druga przekątna ma długość [[AB]] cm.
+---
+Pole rombu wynosi [[CD]] $$\mathrm{cm}^2$$.
+A: 40
+B: 44
+C: 600
+D: 630
+POPRAWNA: AC
+@KONIEC
+@WERSJA 9
+Romb ma bok długości 29 cm i jedną przekątną długości 40 cm. Uzupełnij zdania.
+---
+Druga przekątna ma długość [[AB]] cm.
+---
+Pole rombu wynosi [[CD]] $$\mathrm{cm}^2$$.
+A: 46
+B: 42
+C: 880
+D: 840
+POPRAWNA: BD
+@KONIEC
+@WERSJA 10
+Romb ma bok długości 50 cm i jedną przekątną długości 28 cm. Uzupełnij zdania.
+---
+Druga przekątna ma długość [[AB]] cm.
+---
+Pole rombu wynosi [[CD]] $$\mathrm{cm}^2$$.
+A: 100
+B: 96
+C: 1372
+D: 1344
+POPRAWNA: BD
+@KONIEC
+@KONIEC_ZADANIA
+@ZADANIE ABCD
+@WERSJA 1
+W prostokącie $$ABCD$$ punkty E i F są środkami boków $$BC$$ i $$CD$$. Wiadomo, że $$EC$$ = 3 cm i $$EF$$ = 5 cm. Oblicz obwód prostokąta.
+![Prostokąt ABCD](prostokat.svg)
+A: 20 cm
+B: 32 cm
+C: 28 cm
+D: 14 cm
+POPRAWNA: C
+@KONIEC
+@WERSJA 2
+W prostokącie $$ABCD$$ punkty E i F są środkami boków $$BC$$ i $$CD$$. Wiadomo, że $$EC$$ = 5 cm i $$EF$$ = 13 cm. Oblicz obwód prostokąta.
+![Prostokąt ABCD](prostokat.svg)
+A: 68 cm
+B: 72 cm
+C: 34 cm
+D: 52 cm
+POPRAWNA: A
+@KONIEC
+@WERSJA 3
+W prostokącie $$ABCD$$ punkty E i F są środkami boków $$BC$$ i $$CD$$. Wiadomo, że $$EC$$ = 8 cm i $$EF$$ = 17 cm. Oblicz obwód prostokąta.
+![Prostokąt ABCD](prostokat.svg)
+A: 100 cm
+B: 68 cm
+C: 92 cm
+D: 46 cm
+POPRAWNA: C
+@KONIEC
+@WERSJA 4
+W prostokącie $$ABCD$$ punkty E i F są środkami boków $$BC$$ i $$CD$$. Wiadomo, że $$EC$$ = 7 cm i $$EF$$ = 25 cm. Oblicz obwód prostokąta.
+![Prostokąt ABCD](prostokat.svg)
+A: 128 cm
+B: 124 cm
+C: 62 cm
+D: 100 cm
+POPRAWNA: B
+@KONIEC
+@WERSJA 5
+W prostokącie $$ABCD$$ punkty E i F są środkami boków $$BC$$ i $$CD$$. Wiadomo, że $$EC$$ = 9 cm i $$EF$$ = 15 cm. Oblicz obwód prostokąta.
+![Prostokąt ABCD](prostokat.svg)
+A: 84 cm
+B: 42 cm
+C: 96 cm
+D: 60 cm
+POPRAWNA: A
+@KONIEC
+@WERSJA 6
+W prostokącie $$ABCD$$ punkty E i F są środkami boków $$BC$$ i $$CD$$. Wiadomo, że $$EC$$ = 12 cm i $$EF$$ = 20 cm. Oblicz obwód prostokąta.
+![Prostokąt ABCD](prostokat.svg)
+A: 112 cm
+B: 128 cm
+C: 80 cm
+D: 56 cm
+POPRAWNA: A
+@KONIEC
+@WERSJA 7
+W prostokącie $$ABCD$$ punkty E i F są środkami boków $$BC$$ i $$CD$$. Wiadomo, że $$EC$$ = 10 cm i $$EF$$ = 26 cm. Oblicz obwód prostokąta.
+![Prostokąt ABCD](prostokat.svg)
+A: 144 cm
+B: 104 cm
+C: 136 cm
+D: 68 cm
+POPRAWNA: C
+@KONIEC
+@WERSJA 8
+W prostokącie $$ABCD$$ punkty E i F są środkami boków $$BC$$ i $$CD$$. Wiadomo, że $$EC$$ = 15 cm i $$EF$$ = 25 cm. Oblicz obwód prostokąta.
+![Prostokąt ABCD](prostokat.svg)
+A: 70 cm
+B: 160 cm
+C: 140 cm
+D: 100 cm
+POPRAWNA: C
+@KONIEC
+@WERSJA 9
+W prostokącie $$ABCD$$ punkty E i F są środkami boków $$BC$$ i $$CD$$. Wiadomo, że $$EC$$ = 20 cm i $$EF$$ = 29 cm. Oblicz obwód prostokąta.
+![Prostokąt ABCD](prostokat.svg)
+A: 196 cm
+B: 164 cm
+C: 82 cm
+D: 116 cm
+POPRAWNA: B
+@KONIEC
+@WERSJA 10
+W prostokącie $$ABCD$$ punkty E i F są środkami boków $$BC$$ i $$CD$$. Wiadomo, że $$EC$$ = 14 cm i $$EF$$ = 50 cm. Oblicz obwód prostokąta.
+![Prostokąt ABCD](prostokat.svg)
+A: 200 cm
+B: 248 cm
+C: 124 cm
+D: 256 cm
+POPRAWNA: B
+@KONIEC
+@KONIEC_ZADANIA
+@ZADANIE ABCD
+@WERSJA 1
+Kwadrat ma bok długości 3 dm. Ile wynosi długość jego przekątnej?
+A: 6 dm
+B: $$3\sqrt{2}$$ dm
+C: 9 dm
+D: $$3\sqrt{3}$$ dm
+POPRAWNA: B
+@KONIEC
+@WERSJA 2
+Kwadrat ma bok długości 5 dm. Ile wynosi długość jego przekątnej?
+A: 10 dm
+B: 25 dm
+C: $$5\sqrt{2}$$ dm
+D: $$5\sqrt{3}$$ dm
+POPRAWNA: C
+@KONIEC
+@WERSJA 3
+Kwadrat ma bok długości 6 dm. Ile wynosi długość jego przekątnej?
+A: $$6\sqrt{3}$$ dm
+B: $$6\sqrt{2}$$ dm
+C: 12 dm
+D: 36 dm
+POPRAWNA: B
+@KONIEC
+@WERSJA 4
+Kwadrat ma bok długości 7 dm. Ile wynosi długość jego przekątnej?
+A: 49 dm
+B: 14 dm
+C: $$7\sqrt{2}$$ dm
+D: $$7\sqrt{3}$$ dm
+POPRAWNA: C
+@KONIEC
+@WERSJA 5
+Kwadrat ma bok długości 8 dm. Ile wynosi długość jego przekątnej?
+A: $$8\sqrt{3}$$ dm
+B: 16 dm
+C: $$8\sqrt{2}$$ dm
+D: 64 dm
+POPRAWNA: C
+@KONIEC
+@WERSJA 6
+Kwadrat ma bok długości 9 dm. Ile wynosi długość jego przekątnej?
+A: $$9\sqrt{3}$$ dm
+B: $$9\sqrt{2}$$ dm
+C: 18 dm
+D: 81 dm
+POPRAWNA: B
+@KONIEC
+@WERSJA 7
+Kwadrat ma bok długości 10 dm. Ile wynosi długość jego przekątnej?
+A: 100 dm
+B: $$10\sqrt{2}$$ dm
+C: 20 dm
+D: $$10\sqrt{3}$$ dm
+POPRAWNA: B
+@KONIEC
+@WERSJA 8
+Kwadrat ma bok długości 11 dm. Ile wynosi długość jego przekątnej?
+A: $$11\sqrt{3}$$ dm
+B: $$11\sqrt{2}$$ dm
+C: 22 dm
+D: 121 dm
+POPRAWNA: B
+@KONIEC
+@WERSJA 9
+Kwadrat ma bok długości 12 dm. Ile wynosi długość jego przekątnej?
+A: $$12\sqrt{2}$$ dm
+B: $$12\sqrt{3}$$ dm
+C: 24 dm
+D: 144 dm
+POPRAWNA: A
+@KONIEC
+@WERSJA 10
+Kwadrat ma bok długości 13 dm. Ile wynosi długość jego przekątnej?
+A: 169 dm
+B: $$13\sqrt{2}$$ dm
+C: 26 dm
+D: $$13\sqrt{3}$$ dm
+POPRAWNA: B
+@KONIEC
+@KONIEC_ZADANIA
+@ZADANIE UZ
+@WERSJA 1
+Bok trójkąta równobocznego ma długość $$4\sqrt{3}$$ cm. Czy wysokość tego trójkąta jest większa niż 4 cm? Wybierz odpowiedź i uzasadnienie.
+A: TAK
+B: NIE
+1: Wysokość wynosi 6,0 cm, ponieważ $$h=\frac{a\sqrt{3}}{2}$$.
+2: Wysokość jest równa długości boku, czyli $$4\sqrt{3}$$ cm.
+3: Wysokość wynosi 4 cm, ponieważ $$h=\frac{a}{\sqrt{3}}$$.
+POPRAWNA: A1
+@KONIEC
+@WERSJA 2
+Bok trójkąta równobocznego ma długość $$6\sqrt{3}$$ cm. Czy wysokość tego trójkąta jest większa niż 11 cm? Wybierz odpowiedź i uzasadnienie.
+A: TAK
+B: NIE
+1: Wysokość wynosi 9,0 cm, ponieważ $$h=\frac{a\sqrt{3}}{2}$$.
+2: Wysokość jest równa długości boku, czyli $$6\sqrt{3}$$ cm.
+3: Wysokość wynosi 6 cm, ponieważ $$h=\frac{a}{\sqrt{3}}$$.
+POPRAWNA: B1
+@KONIEC
+@WERSJA 3
+Bok trójkąta równobocznego ma długość $$8\sqrt{3}$$ cm. Czy wysokość tego trójkąta jest większa niż 10 cm? Wybierz odpowiedź i uzasadnienie.
+A: TAK
+B: NIE
+1: Wysokość wynosi 12,0 cm, ponieważ $$h=\frac{a\sqrt{3}}{2}$$.
+2: Wysokość jest równa długości boku, czyli $$8\sqrt{3}$$ cm.
+3: Wysokość wynosi 8 cm, ponieważ $$h=\frac{a}{\sqrt{3}}$$.
+POPRAWNA: A1
+@KONIEC
+@WERSJA 4
+Bok trójkąta równobocznego ma długość $$10\sqrt{3}$$ cm. Czy wysokość tego trójkąta jest większa niż 17 cm? Wybierz odpowiedź i uzasadnienie.
+A: TAK
+B: NIE
+1: Wysokość wynosi 15,0 cm, ponieważ $$h=\frac{a\sqrt{3}}{2}$$.
+2: Wysokość jest równa długości boku, czyli $$10\sqrt{3}$$ cm.
+3: Wysokość wynosi 10 cm, ponieważ $$h=\frac{a}{\sqrt{3}}$$.
+POPRAWNA: B1
+@KONIEC
+@WERSJA 5
+Bok trójkąta równobocznego ma długość $$12\sqrt{3}$$ cm. Czy wysokość tego trójkąta jest większa niż 16 cm? Wybierz odpowiedź i uzasadnienie.
+A: TAK
+B: NIE
+1: Wysokość wynosi 18,0 cm, ponieważ $$h=\frac{a\sqrt{3}}{2}$$.
+2: Wysokość jest równa długości boku, czyli $$12\sqrt{3}$$ cm.
+3: Wysokość wynosi 12 cm, ponieważ $$h=\frac{a}{\sqrt{3}}$$.
+POPRAWNA: A1
+@KONIEC
+@WERSJA 6
+Bok trójkąta równobocznego ma długość $$14\sqrt{3}$$ cm. Czy wysokość tego trójkąta jest większa niż 23 cm? Wybierz odpowiedź i uzasadnienie.
+A: TAK
+B: NIE
+1: Wysokość wynosi 21,0 cm, ponieważ $$h=\frac{a\sqrt{3}}{2}$$.
+2: Wysokość jest równa długości boku, czyli $$14\sqrt{3}$$ cm.
+3: Wysokość wynosi 14 cm, ponieważ $$h=\frac{a}{\sqrt{3}}$$.
+POPRAWNA: B1
+@KONIEC
+@WERSJA 7
+Bok trójkąta równobocznego ma długość $$16\sqrt{3}$$ cm. Czy wysokość tego trójkąta jest większa niż 22 cm? Wybierz odpowiedź i uzasadnienie.
+A: TAK
+B: NIE
+1: Wysokość wynosi 24,0 cm, ponieważ $$h=\frac{a\sqrt{3}}{2}$$.
+2: Wysokość jest równa długości boku, czyli $$16\sqrt{3}$$ cm.
+3: Wysokość wynosi 16 cm, ponieważ $$h=\frac{a}{\sqrt{3}}$$.
+POPRAWNA: A1
+@KONIEC
+@WERSJA 8
+Bok trójkąta równobocznego ma długość $$18\sqrt{3}$$ cm. Czy wysokość tego trójkąta jest większa niż 29 cm? Wybierz odpowiedź i uzasadnienie.
+A: TAK
+B: NIE
+1: Wysokość wynosi 27,0 cm, ponieważ $$h=\frac{a\sqrt{3}}{2}$$.
+2: Wysokość jest równa długości boku, czyli $$18\sqrt{3}$$ cm.
+3: Wysokość wynosi 18 cm, ponieważ $$h=\frac{a}{\sqrt{3}}$$.
+POPRAWNA: B1
+@KONIEC
+@WERSJA 9
+Bok trójkąta równobocznego ma długość $$20\sqrt{3}$$ cm. Czy wysokość tego trójkąta jest większa niż 28 cm? Wybierz odpowiedź i uzasadnienie.
+A: TAK
+B: NIE
+1: Wysokość wynosi 30,0 cm, ponieważ $$h=\frac{a\sqrt{3}}{2}$$.
+2: Wysokość jest równa długości boku, czyli $$20\sqrt{3}$$ cm.
+3: Wysokość wynosi 20 cm, ponieważ $$h=\frac{a}{\sqrt{3}}$$.
+POPRAWNA: A1
+@KONIEC
+@WERSJA 10
+Bok trójkąta równobocznego ma długość $$22\sqrt{3}$$ cm. Czy wysokość tego trójkąta jest większa niż 35 cm? Wybierz odpowiedź i uzasadnienie.
+A: TAK
+B: NIE
+1: Wysokość wynosi 33,0 cm, ponieważ $$h=\frac{a\sqrt{3}}{2}$$.
+2: Wysokość jest równa długości boku, czyli $$22\sqrt{3}$$ cm.
+3: Wysokość wynosi 22 cm, ponieważ $$h=\frac{a}{\sqrt{3}}$$.
+POPRAWNA: B1
+@KONIEC
+@KONIEC_ZADANIA
